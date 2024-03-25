@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Welcome!"
 title_separator          : "-"
-name                     : &name "About me"
+name                     : &name "About Me"
 description              : &description ""
 url                      : https://qianhuiwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "QianhuiWu/qianhuiwu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile-QianhuiWu.jpg"
   name             : "Qianhui Wu (武千惠)"
   pronouns         : # example: "she/her"  
   bio              : "Senior Researcher, Microsoft"
