@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Page: Qianhui Wu"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -46,12 +46,17 @@ My research interest includes Efficient LLM, Generative AI, and Information Extr
 
 * **Qianhui Wu**, Keqin Ding, Biqing Huang, [Approach for Fault Prognosis Using Recurrent Neural Network](https://link.springer.com/article/10.1007/s10845-018-1428-5), JIM-2018.
 
-### Selected Honors & Awards
+### Honors & Awards
+* Microsoft 2023 Global Hackathon Award Winner (2023)
+* Outstanding Intern of "_Stars of Tomorrow_" Internship Program, Microsoft Research Asia (2020)
 * Intel Scholarship (2020)
+* 2nd Place Winner of NTCIR-2019 FinNum Task (2019)
 * Second-Class Scholarship, Tsinghua University (2018)
+* Outstanding (12-9) Counselor Prize (2018)
 * Outstanding Bachelor Thesis, Tsinghua University (2016)
 * Second Prize of Challenge Cup, Tsinghua University (2015)
 * National Encouragement Scholarship (2014)
+* Scholoarship of Art Excellence (2014)
 * Scholarship of Academic Excellence, Tsinghua University (2013)
 
 ### Other Information
@@ -61,8 +66,4 @@ My research interest includes Efficient LLM, Generative AI, and Information Extr
 
 **Other Activities**
 * Counselor at Center for Student Learning and Development, Tsinghua University (Sep. 2016 - Aug. 2018)
-  - Awarded "_Outstanding (12-9) Counselor Prize_" (2018)
 * Member of Chinese National Orchestra, Tsinghua University (Aug. 2012 - Jun. 2021)
-  - Awarded "_Scholoarship of Art Excellence_" (2014)
-
-
