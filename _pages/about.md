@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,9 +26,9 @@ Selected Publications
 * Huiqiang Jiang, **Qianhui Wu**, Chin-Yew Lin, Yuqing Yang, Lili Qiu, [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://aclanthology.org/2023.emnlp-main.825/), EMNLP-2023.
 * **Qianhui Wu**, Huiqiang Jiang, Haonan Yin, Börje Karlsson, Chin-Yew Lin, [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://aclanthology.org/2023.acl-long.403/), ACL-2023.
 * Tingting Ma, **Qianhui Wu**, Huiqiang Jiang, Börje Karlsson, Tiejun Zhao, Chin-Yew Lin, [CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition](https://aclanthology.org/2023.acl-long.330/), ACL-2023.
-* Tingting Ma*, Huiqiang Jiang*, **Qianhui Wu***, Tiejun Zhao, Chin-Yew Lin, [Decomposed Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.124/), ACL-2022 Findings.
+* Tingting Ma*, Huiqiang Jiang* , **Qianhui Wu***, Tiejun Zhao, Chin-Yew Lin, [Decomposed Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.124/), ACL-2022 Findings.
 * Tingting Ma, **Qianhui Wu**, Zhiwei Yu, Tiejun Zhao, Chin-Yew Lin, [On the Effectiveness of Sentence Encoding for Intent Detection Meta-Learning](https://aclanthology.org/2022.naacl-main.279/), NAACL-2022.
-* Yu Mo*, **Qianhui Wu***, Xiu Li, Biqing Huang, [Remaining Useful Life Estimation via Transformer Encoder Enhanced by a Gated Convolutional Unit](https://link.springer.com/article/10.1007/s10845-021-01750-x), JIM-2021.
+* Yu Mo* , **Qianhui Wu***, Xiu Li, Biqing Huang, [Remaining Useful Life Estimation via Transformer Encoder Enhanced by a Gated Convolutional Unit](https://link.springer.com/article/10.1007/s10845-021-01750-x), JIM-2021.
 * **Qianhui Wu**, Zijia Lin, Börje Karlsson, Biqing Huang, Jian-Guang Lou, [Unitrans: Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data](https://www.ijcai.org/Proceedings/2020/0543.pdf), IJCAI-2020.
 * **Qianhui Wu**, Zijia Lin, Börje Karlsson, Jian-Guang Lou, Biqing Huang, [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://aclanthology.org/2020.acl-main.581/), ACL-2020.
 * **Qianhui Wu**, Zijia Lin, Guoxin Wang, Hui Chen, Börje Karlsson, Biqing Huang, Chin-Yew Lin, [Enhanced Meta-Learning for Cross-Lingual Named Entity Recognition with Minimal Resources](https://aaai.org/papers/09274-enhanced-meta-learning-for-cross-lingual-named-entity-recognition-with-minimal-resources/), AAAI-2020.
@@ -38,7 +38,7 @@ Selected Publications
 Honors & Awards
 ------
 * Microsoft 2023 Global Hackathon Award Winner (2023)
-* Outstanding Intern of "_Stars of Tomorrow_" Internship Program, Microsoft Research Asia (2020)
+* Outstanding Intern of "_Stars of Tomorrow_" Program, Microsoft Research Asia (2020)
 * Intel Scholarship (2020)
 * 2nd Place Winner of NTCIR-2019 FinNum Task (2019)
 * Second-Class Scholarship, Tsinghua University (2018)
