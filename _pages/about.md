@@ -20,8 +20,8 @@ Recommended Repos
 
 Selected Publications
 ------
-* Zhoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang, [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/html/2403.12968v1) (Under Review).
-* Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Dongshegn Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu, [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839), ME-FoMo Workshop, ICLR-2024 (Under Review).
+* Zhoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang, [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/html/2403.12968v1), Preprint.
+* Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Dongshegn Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu, [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839), ME-FoMo Workshop, ICLR-2024.
 * Tingting Ma, **Qianhui Wu**, Huiqiang Jiang, Jieru Lin, Börje Karlsson, Tiejun Zhao, Chin-Yew Lin, [Decomposed Meta-Learning for Few-Shot Sequence Labeling](https://ieeexplore.ieee.org/document/10458261/), TASLP-2024.
 * Huiqiang Jiang, **Qianhui Wu**, Chin-Yew Lin, Yuqing Yang, Lili Qiu, [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://aclanthology.org/2023.emnlp-main.825/), EMNLP-2023.
 * **Qianhui Wu**, Huiqiang Jiang, Haonan Yin, Börje Karlsson, Chin-Yew Lin, [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://aclanthology.org/2023.acl-long.403/), ACL-2023.
