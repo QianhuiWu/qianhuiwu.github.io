@@ -46,7 +46,7 @@ Honors & Awards
 * Outstanding Bachelor Thesis, Tsinghua University (2016)
 * Second Prize of Challenge Cup, Tsinghua University (2015)
 * National Encouragement Scholarship (2014)
-* Scholoarship of Art Excellence (2014)
+* Scholoarship of Art Excellence, Tsinghua University (2014)
 * Scholarship of Academic Excellence, Tsinghua University (2013)
 
 Other Information
