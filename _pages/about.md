@@ -38,11 +38,11 @@ Selected Publications
 Honors & Awards
 ------
 * Microsoft 2023 Global Hackathon Award Winner (2023)
-* Outstanding Intern of "_Stars of Tomorrow_" Program, Microsoft Research Asia (2020)
+* Outstanding Intern of "Stars of Tomorrow" Program, Microsoft Research Asia (2020)
 * Intel Scholarship (2020)
-* 2nd Place Winner of NTCIR-2019 FinNum Task (2019)
+* Second Place Winner of NTCIR-2019 FinNum Task (2019)
 * Second-Class Scholarship, Tsinghua University (2018)
-* Outstanding (12-9) Counselor Prize (2018)
+* Outstanding (12-9) Counselor Prize, Tsinghua University (2018)
 * Outstanding Bachelor Thesis, Tsinghua University (2016)
 * Second Prize of Challenge Cup, Tsinghua University (2015)
 * National Encouragement Scholarship (2014)
