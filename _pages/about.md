@@ -60,4 +60,6 @@ Other Information
 * Member of Chinese National Orchestra, Tsinghua University (Aug. 2012 - Jun. 2021)
 
 ------
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sHUFovnSB1DX6vMbdeo1Jz4d6fXjO90cNXCmDhzb3e4&cl=ffffff&w=a"></script>
+<div style="width: 250px; margin: auto;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sHUFovnSB1DX6vMbdeo1Jz4d6fXjO90cNXCmDhzb3e4&cl=ffffff&w=a"></script>
+</div>
