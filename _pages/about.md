@@ -58,3 +58,8 @@ Other Information
 **Other Activities**
 * Counselor at Center for Student Learning and Development, Tsinghua University (Sep. 2016 - Aug. 2018)
 * Member of Chinese National Orchestra, Tsinghua University (Aug. 2012 - Jun. 2021)
+
+------
+<div style="width: 250px; margin: auto;">
+		<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=DqbbzWwcRTMYjO1e01t5kB_HHvBm_7eWoxdlOK1UCuo"></script>
+</div>
