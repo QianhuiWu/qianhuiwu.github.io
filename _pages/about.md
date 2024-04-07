@@ -13,11 +13,11 @@ My research interest includes Efficient LLM, Generative AI, and Information Extr
 
 News
 ------
-* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenario, boasting a 3x-6x speed improvement over LLMLingua. ([paper](https://arxiv.org/abs/2403.12968), [code](https://github.com/microsoft/LLMLingua), [HF Space](https://huggingface.co/spaces/microsoft/llmlingua-2), [model](https://huggingface.co/microsoft/llmlingua-2-xlm-roberta-large-meetingbank), [model-small](https://huggingface.co/microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank))
+* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenario, boasting a 3x-6x speed improvement over LLMLingua.
 * [02/28/2024] [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).
 * [10/26/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
-* [10/10/2023] We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization. ([paper](https://arxiv.org/abs/2310.06839), [code](https://github.com/microsoft/LLMLingua), [HF Space](https://huggingface.co/spaces/microsoft/llmlingua))
-* [10/09/2023] We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B. ([paper](https://arxiv.org/abs/2310.05736), [code](https://github.com/microsoft/LLMLingua), [HF Space](https://huggingface.co/spaces/microsoft/llmlingua))
+* [10/10/2023] We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization.
+* [10/09/2023] We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.
 
 Recommended Repos
 ------
