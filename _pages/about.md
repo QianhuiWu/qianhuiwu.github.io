@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Senior Rearcher at [Microsoft](https://www.microsoft.com).
+I'm a Senior Researcher at [Microsoft](https://www.microsoft.com).
 I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2016 and 2021, respectively.
 My research interest includes Efficient LLM, Generative AI, and Information Extraction.
 
