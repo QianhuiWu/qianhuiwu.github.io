@@ -60,7 +60,7 @@ Other Information
 ------
 **Academic Service**
 * Conference Reviewer: ACL, EMNLP, NAACL, AAAI.
-* Journal Reviewer: TASLP, JIM.
+* Journal Reviewer: TASLP, JIM, ESIN.
 
 **Other Activities**
 * Counselor at Center for Student Learning and Development, Tsinghua University (Sep. 2016 - Aug. 2018)
