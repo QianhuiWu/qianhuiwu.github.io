@@ -9,15 +9,17 @@ redirect_from:
 
 I'm a Senior Researcher at [Microsoft](https://www.microsoft.com).
 I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2016 and 2021, respectively.
-My research interest includes Efficient LLM, Generative AI, and Information Extraction.
+My recent research focuses on efficient LLMs and I'm also very interested in multimodal learning and embodied AI.
+<!--Information Extraction and low-resource NLP.-->
 
 News
 ------
+* [05/21/2024] [LLMLingua](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction).
 * [05/16/2024] [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
 * [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenario, boasting a 3x-6x speed improvement over LLMLingua.
 * [02/28/2024] [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).
 * [10/26/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
-* [10/09/2023] We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.
+<!--* [10/09/2023] We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.-->
 <!--* [10/10/2023] We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization.-->
 
 Recommended Repos
