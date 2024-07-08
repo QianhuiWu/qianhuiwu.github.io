@@ -14,13 +14,15 @@ My recent research focuses on efficient LLMs and I'm also very interested in mul
 
 News
 ------
+* [06/03/2024] Our rencent work [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490) and [Mitigate Position Bias in Large Language Models via Scaling a Single Dimension](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
 * [05/21/2024] [LLMLingua](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction).
 * [05/16/2024] [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
 * [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenario, boasting a 3x-6x speed improvement over LLMLingua.
-* [02/28/2024] [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).
-* [10/26/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
-<!--* [10/09/2023] We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.-->
+* [02/28/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
+<!--* [02/28/2024] [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).-->
+<!--* [10/26/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
 <!--* [10/10/2023] We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization.-->
+<!--* [10/09/2023] We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.-->
 
 Recommended Repos
 ------
@@ -29,8 +31,8 @@ Recommended Repos
 
 Selected Publications
 ------
-* Zhoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang, [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/html/2403.12968v1), Preprint.
-* Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Dongshegn Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu, [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839), ME-FoMo Workshop, ICLR-2024.
+* Zhoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang, [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/html/2403.12968v1), ACL-2024 Findings.
+* Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Dongshegn Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu, [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839), ACL-2024, ME-FoMo@ICLR-2024.
 * Tingting Ma, **Qianhui Wu**, Huiqiang Jiang, Jieru Lin, Börje Karlsson, Tiejun Zhao, Chin-Yew Lin, [Decomposed Meta-Learning for Few-Shot Sequence Labeling](https://ieeexplore.ieee.org/document/10458261/), TASLP-2024.
 * Huiqiang Jiang, **Qianhui Wu**, Chin-Yew Lin, Yuqing Yang, Lili Qiu, [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://aclanthology.org/2023.emnlp-main.825/), EMNLP-2023.
 * **Qianhui Wu**, Huiqiang Jiang, Haonan Yin, Börje Karlsson, Chin-Yew Lin, [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://aclanthology.org/2023.acl-long.403/), ACL-2023.
@@ -46,6 +48,7 @@ Selected Publications
 
 Honors & Awards
 ------
+* Microsoft Machine Learning, AI & Data Science Conference (MLADS) Distinguished Contribution Award Winner (2024)
 * Microsoft 2023 Global Hackathon Award Winner (2023)
 * Outstanding Intern of "Stars of Tomorrow" Program, Microsoft Research Asia (2020)
 * Intel Scholarship (2020)
@@ -61,7 +64,7 @@ Honors & Awards
 Other Information
 ------
 **Academic Service**
-* Conference Reviewer: ACL, EMNLP, NAACL, AAAI.
+* Conference Reviewer: ACL, EMNLP, NAACL, AAAI, NLPCC.
 * Journal Reviewer: TASLP, JIM, ESIN.
 
 **Other Activities**
