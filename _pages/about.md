@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Senior Researcher at [Microsoft](https://www.microsoft.com).
+I'm a Senior Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/).
 I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2016 and 2021, respectively.
 My recent research focuses on efficient LLMs and I'm also very interested in multimodal learning and embodied AI.
 <!--Information Extraction and low-resource NLP.-->
 
 News
 ------
-* [06/03/2024] Our rencent work [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490) and [Mitigate Position Bias in Large Language Models via Scaling a Single Dimension](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
+* [06/03/2024] Our recent work [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490) and [Mitigate Position Bias in Large Language Models via Scaling a Single Dimension](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
 * [05/21/2024] [LLMLingua](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction).
 * [05/16/2024] [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
-* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenario, boasting a 3x-6x speed improvement over LLMLingua.
+* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.
 * [02/28/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
 <!--* [02/28/2024] [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).-->
 <!--* [10/26/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
