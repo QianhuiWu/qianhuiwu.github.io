@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Senior Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/).
 I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2016 and 2021, respectively.
-My recent research focuses on efficient LLMs and I'm also very interested in multimodal learning and embodied AI.
+My recent research focuses on efficient LLMs, memory management of conversational agents, multimodal modeling, and embodied AI.
 <!--Information Extraction and low-resource NLP.-->
 
 News
