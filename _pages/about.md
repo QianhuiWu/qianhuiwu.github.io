@@ -49,8 +49,8 @@ Selected Publications
 
 Honors & Awards
 ------
-* Microsoft Machine Learning, AI & Data Science Conference (MLADS) Distinguished Contribution Award Winner (2024)
-* Microsoft 2023 Global Hackathon Award Winner (2023)
+* [Microsoft Machine Learning, AI & Data Science Conference (MLADS) Distinguished Contribution](https://www.credly.com/badges/de094913-37b0-441d-ac1d-955d3c01ef1d) Award Winner (2024)
+* [Microsoft 2023 Global Hackathon Award Winner](https://www.credly.com/badges/2f60ed04-4548-4d7c-a80f-c765ad6cee0f) (2023)
 <!--* Outstanding Intern of "Stars of Tomorrow" Program, Microsoft Research Asia (2020)-->
 * Intel Scholarship (2020)
 <!--* Second Place Winner of NTCIR-2019 FinNum Task (2019)-->
@@ -65,6 +65,7 @@ Honors & Awards
 Other Information
 ------
 **Academic Service**
+* Area Chair: COLING-25.
 * Conference Reviewer: ACL, EMNLP, NAACL, AAAI, NLPCC.
 * Journal Reviewer: TASLP, IPM, JIM, ESIN, SIVP, Scientific Reports.
 
