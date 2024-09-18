@@ -14,10 +14,11 @@ My recent research focuses on efficient LLMs and I'm also very interested in mul
 
 News
 ------
+* [09/14/2024] I'm serving as an Area Chair for COLING 25!
 * [06/03/2024] Our recent work [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490) and [Mitigate Position Bias in Large Language Models via Scaling a Single Dimension](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
 * [05/21/2024] [LLMLingua](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction).
 * [05/16/2024] [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
-* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.
+<!--* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.-->
 * [02/28/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
 <!--* [02/28/2024] [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).-->
 <!--* [10/26/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
@@ -39,24 +40,24 @@ Selected Publications
 * Tingting Ma, **Qianhui Wu**, Huiqiang Jiang, Börje Karlsson, Tiejun Zhao, Chin-Yew Lin, [CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition](https://aclanthology.org/2023.acl-long.330/), ACL-2023.
 * Tingting Ma* , Huiqiang Jiang* , **Qianhui Wu***, Tiejun Zhao, Chin-Yew Lin, [Decomposed Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.124/), ACL-2022 Findings.
 * Tingting Ma, **Qianhui Wu**, Zhiwei Yu, Tiejun Zhao, Chin-Yew Lin, [On the Effectiveness of Sentence Encoding for Intent Detection Meta-Learning](https://aclanthology.org/2022.naacl-main.279/), NAACL-2022.
-* Yu Mo* , **Qianhui Wu***, Xiu Li, Biqing Huang, [Remaining Useful Life Estimation via Transformer Encoder Enhanced by a Gated Convolutional Unit](https://link.springer.com/article/10.1007/s10845-021-01750-x), JIM-2021.
+<!--* Yu Mo* , **Qianhui Wu***, Xiu Li, Biqing Huang, [Remaining Useful Life Estimation via Transformer Encoder Enhanced by a Gated Convolutional Unit](https://link.springer.com/article/10.1007/s10845-021-01750-x), JIM-2021.-->
 * **Qianhui Wu**, Zijia Lin, Börje Karlsson, Biqing Huang, Jian-Guang Lou, [Unitrans: Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data](https://www.ijcai.org/Proceedings/2020/0543.pdf), IJCAI-2020.
 * **Qianhui Wu**, Zijia Lin, Börje Karlsson, Jian-Guang Lou, Biqing Huang, [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://aclanthology.org/2020.acl-main.581/), ACL-2020.
 * **Qianhui Wu**, Zijia Lin, Guoxin Wang, Hui Chen, Börje Karlsson, Biqing Huang, Chin-Yew Lin, [Enhanced Meta-Learning for Cross-Lingual Named Entity Recognition with Minimal Resources](https://aaai.org/papers/09274-enhanced-meta-learning-for-cross-lingual-named-entity-recognition-with-minimal-resources/), AAAI-2020.
-* **Qianhui Wu*** , Guoxin Wang*, Yuyin Zhu, Haoyan Liu, Börje Karlsson, [DeepMRT at the NTCIR-14 FinNum task: a hybrid neural model for numeral type classification in financial tweets](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/07-NTCIR14-FINNUM-WuQ.pdf), NTCIR-2019.
-* **Qianhui Wu**, Keqin Ding, Biqing Huang, [Approach for Fault Prognosis Using Recurrent Neural Network](https://link.springer.com/article/10.1007/s10845-018-1428-5), JIM-2018.
+<!--* **Qianhui Wu*** , Guoxin Wang*, Yuyin Zhu, Haoyan Liu, Börje Karlsson, [DeepMRT at the NTCIR-14 FinNum task: a hybrid neural model for numeral type classification in financial tweets](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/07-NTCIR14-FINNUM-WuQ.pdf), NTCIR-2019.-->
+<!--* **Qianhui Wu**, Keqin Ding, Biqing Huang, [Approach for Fault Prognosis Using Recurrent Neural Network](https://link.springer.com/article/10.1007/s10845-018-1428-5), JIM-2018.-->
 
 Honors & Awards
 ------
 * Microsoft Machine Learning, AI & Data Science Conference (MLADS) Distinguished Contribution Award Winner (2024)
 * Microsoft 2023 Global Hackathon Award Winner (2023)
-* Outstanding Intern of "Stars of Tomorrow" Program, Microsoft Research Asia (2020)
+<!--* Outstanding Intern of "Stars of Tomorrow" Program, Microsoft Research Asia (2020)-->
 * Intel Scholarship (2020)
-* Second Place Winner of NTCIR-2019 FinNum Task (2019)
-* Second-Class Scholarship, Tsinghua University (2018)
+<!--* Second Place Winner of NTCIR-2019 FinNum Task (2019)-->
+<!--* Second-Class Scholarship, Tsinghua University (2018)-->
 * Outstanding (12-9) Counselor Prize, Tsinghua University (2018)
 * Outstanding Bachelor Thesis, Tsinghua University (2016)
-* Second Prize of Challenge Cup, Tsinghua University (2015)
+<!--* Second Prize of Challenge Cup, Tsinghua University (2015)-->
 * National Encouragement Scholarship (2014)
 * Scholarship of Art Excellence, Tsinghua University (2014)
 * Scholarship of Academic Excellence, Tsinghua University (2013)
@@ -65,7 +66,7 @@ Other Information
 ------
 **Academic Service**
 * Conference Reviewer: ACL, EMNLP, NAACL, AAAI, NLPCC.
-* Journal Reviewer: TASLP, JIM, ESIN.
+* Journal Reviewer: TASLP, IPM, JIM, ESIN, SIVP, Scientific Reports.
 
 **Other Activities**
 * Counselor at Center for Student Learning and Development, Tsinghua University (Sep. 2016 - Aug. 2018)
