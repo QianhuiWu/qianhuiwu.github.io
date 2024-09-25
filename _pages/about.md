@@ -14,8 +14,9 @@ My recent research focuses on efficient LLMs, memory management of conversationa
 
 News
 ------
+* [09/25/2024] [MInference](https://arxiv.org/abs/2406.02536) is accepted as a spotlight paper in NeurIPS 2024!
 * [09/14/2024] I'm serving as an Area Chair for COLING 25!
-* [06/03/2024] Our recent work [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490) and [Mitigate Position Bias in Large Language Models via Scaling a Single Dimension](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
+* [06/03/2024] [MInference](https://arxiv.org/abs/2407.02490) and [LLM Position Bias paper](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
 * [05/21/2024] [LLMLingua](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction).
 * [05/16/2024] [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
 <!--* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.-->
