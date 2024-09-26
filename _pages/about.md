@@ -14,7 +14,7 @@ My recent research focuses on efficient LLMs, memory management of conversationa
 
 News
 ------
-* [09/25/2024] [MInference](https://arxiv.org/abs/2406.02536) is accepted as a spotlight paper in NeurIPS 2024!
+* [09/25/2024] [MInference](https://arxiv.org/abs/2406.02536) is accepted at NeurIPS 2024 as a spotlight!
 * [09/14/2024] I'm serving as an Area Chair for COLING 25!
 * [06/03/2024] [MInference](https://arxiv.org/abs/2407.02490) and [LLM Position Bias paper](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
 * [05/21/2024] [LLMLingua](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction).
@@ -68,7 +68,7 @@ Other Information
 **Academic Service**
 * Area Chair: COLING-25.
 * Conference Reviewer: ACL, EMNLP, NAACL, AAAI, NLPCC.
-* Journal Reviewer: CSUR, TASLP, IPM, JIM, ESIN, SIVP, Scientific Reports.
+* Journal Reviewer: CSUR, Pattern Recognition, TASLP, IPM, JIM, ESIN, SIVP, Scientific Reports.
 
 **Other Activities**
 * Counselor at Center for Student Learning and Development, Tsinghua University (Sep. 2016 - Aug. 2018)
