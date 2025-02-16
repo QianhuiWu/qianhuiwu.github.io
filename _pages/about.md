@@ -12,6 +12,8 @@ I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www
 My recent research focuses on efficient LLMs, memory management of conversational agents, multimodal modeling, and embodied AI.
 <!--Information Extraction and low-resource NLP.-->
 
+I'm looking for a self-motivated research intern who are passionate about multi-agent systems. If you are interested in this topic, please email me your resume and a brief self-intro!
+
 News
 ------
 * [01/22/2025] [SeCom](https://openreview.net/forum?id=xKDZAW0He3&referrer=%5Bthe%20profile%20of%20Qianhui%20Wu%5D(%2Fprofile%3Fid%3D~Qianhui_Wu1)) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!
@@ -81,6 +83,6 @@ Other Information
 * Member of Chinese National Orchestra, Tsinghua University (Aug. 2012 - Jun. 2021)
 
 ------
-<div style="width: 300px; margin: auto;">
+<div style="width: 400px; margin: auto;">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=sHUFovnSB1DX6vMbdeo1Jz4d6fXjO90cNXCmDhzb3e4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </div>
