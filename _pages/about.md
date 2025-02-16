@@ -82,5 +82,5 @@ Other Information
 
 ------
 <div style="width: 250px; margin: auto;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sHUFovnSB1DX6vMbdeo1Jz4d6fXjO90cNXCmDhzb3e4&cl=ffffff&w=a"></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=sHUFovnSB1DX6vMbdeo1Jz4d6fXjO90cNXCmDhzb3e4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </div>
