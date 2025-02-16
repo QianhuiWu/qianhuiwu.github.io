@@ -12,7 +12,7 @@ I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www
 My recent research focuses on efficient LLMs, memory management of conversational agents, multimodal modeling, and embodied AI.
 <!--Information Extraction and low-resource NLP.-->
 
-I'm looking for a self-motivated research intern who are passionate about multi-agent systems. If you are interested in this topic, please email me your resume and a brief self-intro!
+I'm looking for a self-motivated research intern who is passionate about multi-agent systems. If you are interested in this topic, please email me your resume and a brief self-intro!
 
 News
 ------
