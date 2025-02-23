@@ -16,14 +16,15 @@ I'm looking for a self-motivated research intern who is passionate about multi-a
 
 News
 ------
+* [02/18/2025] We release [Magma](https://microsoft.github.io/Magma/), a foundation model for multimodal AI agents!
 * [01/22/2025] [SeCom](https://openreview.net/forum?id=xKDZAW0He3&referrer=%5Bthe%20profile%20of%20Qianhui%20Wu%5D(%2Fprofile%3Fid%3D~Qianhui_Wu1)) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!
 * [09/25/2024] [MInference](https://arxiv.org/abs/2406.02536) is accepted at NeurIPS 2024 as a spotlight!
 * [09/14/2024] I'm serving as an Area Chair for COLING 25!
 <!--* [06/03/2024] [MInference](https://arxiv.org/abs/2407.02490) and [LLM Position Bias paper](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.-->
-* [05/21/2024] [LLMLingua](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction) and [AutoGen](https://microsoft.github.io/autogen/0.2/docs/topics/handling_long_contexts/compressing_text_w_llmligua).
+* [05/21/2024] [LLMLingua Series](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction), [AutoGen](https://microsoft.github.io/autogen/0.2/docs/topics/handling_long_contexts/compressing_text_w_llmligua), [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
 * [05/16/2024] [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
 <!--* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.-->
-* [02/28/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
+<!--* [02/28/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
 <!--* [02/28/2024] [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).-->
 <!--* [10/26/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
 <!--* [10/10/2023] We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization.-->
@@ -31,6 +32,7 @@ News
 
 Recommended Repos
 ------
+* [Magma: A Foundation Model for Multimodal AI Agents]([https://arxiv.org/abs/2407.02490](https://microsoft.github.io/Magma/))[![Stars](https://img.shields.io/github/stars/microsoft/Magma?color=yellow&style=social)](https://github.com/microsoft/Magma)
 * [MInference: Million-Tokens Prompt Inference for Long-context LLMs](https://arxiv.org/abs/2407.02490)[![Stars](https://img.shields.io/github/stars/microsoft/MInference?color=yellow&style=social)](https://github.com/microsoft/MInference)
 * [LLMLingua Series for Prompt Compression](https://github.com/microsoft/LLMLingua)[![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?color=yellow&style=social)](https://github.com/microsoft/LLMLingua)
 * [Versatile Entity Recognition & disambiguation Toolkit](https://github.com/microsoft/vert-papers) [![Stars](https://img.shields.io/github/stars/microsoft/vert-papers?color=yellow&style=social)](https://github.com/microsoft/vert-papers)
