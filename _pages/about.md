@@ -12,13 +12,13 @@ I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www
 My recent research focuses on efficient LLMs, memory management of conversational agents, multimodal modeling, and embodied AI.
 <!--Information Extraction and low-resource NLP.-->
 
-I'm looking for a self-motivated research intern who is passionate about multi-agent systems. If you are interested in this topic, please email me your resume and a brief self-intro!
+<!--I'm looking for a self-motivated research intern who is passionate about multi-agent systems. If you are interested in this topic, please email me your resume and a brief self-intro!-->
 
 News
 ------
 * [02/26/2025] [Magma](https://microsoft.github.io/Magma/) is accepted by CVPR 2025!
 * [02/18/2025] We release [Magma](https://microsoft.github.io/Magma/), a foundation model for multimodal AI agents!
-* [01/22/2025] [SeCom](https://openreview.net/forum?id=xKDZAW0He3&referrer=%5Bthe%20profile%20of%20Qianhui%20Wu%5D(%2Fprofile%3Fid%3D~Qianhui_Wu1)) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!
+* [01/22/2025] [SeCom](https://www.microsoft.com/en-us/research/project/secom/) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!
 * [09/25/2024] [MInference](https://arxiv.org/abs/2406.02536) is accepted at NeurIPS 2024 as a spotlight!
 * [09/14/2024] I'm serving as an Area Chair for COLING 25!
 <!--* [06/03/2024] [MInference](https://arxiv.org/abs/2407.02490) and [LLM Position Bias paper](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.-->
