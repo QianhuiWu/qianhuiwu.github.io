@@ -11,7 +11,7 @@ I'm a Senior Researcher at [Microsoft Research](https://www.microsoft.com/en-us/
 I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2016 and 2021, respectively.
 My recent research focuses on multimodal modeling, and embodied AI, and efficient LLMs. <!--Information Extraction and low-resource NLP.-->
 
-<!--I'm looking for a self-motivated research intern who is passionate about multi-agent systems. If you are interested in this topic, please email me your resume and a brief self-intro!-->
+**I'm looking for a self-motivated research intern who is passionate about GUI agents and embodied agents. If you are interested in this topic, feel free to email me your resume and a brief self-intro!**
 
 News
 ------
