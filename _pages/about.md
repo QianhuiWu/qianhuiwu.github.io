@@ -1,4 +1,4 @@
----
+<img width="1494" height="175" alt="image" src="https://github.com/user-attachments/assets/f3978938-41f6-4a00-99cc-fb380804e081" />---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -80,6 +80,10 @@ Honors & Awards
 
 Other Information
 ------
+**Invited Talks**
+* [ 09/05/2025 ] Towards AI Agents That Can See And Act @ Shanghai Artificial Intelligence Laboratory
+* [ 06/25/2025 ] Act Where You See: Coordinate-Free Visual Grounding for GUI Agents @ Simular Seminar
+
 **Academic Service**
 * Area Chair: COLING-25.
 * Conference Reviewer: ICLR, NeurIPS, ACL, EMNLP, NAACL, AAAI, NLPCC.
