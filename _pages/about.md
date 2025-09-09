@@ -87,7 +87,8 @@ Other Information
 **Academic Service**
 * Area Chair: COLING-25.
 * Conference Reviewer: ICLR, NeurIPS, ACL, EMNLP, NAACL, AAAI, NLPCC.
-* Journal Reviewer: CSUR, Pattern Recognition, TASLP, IPM, JIM, ESIN, SIVP, Scientific Reports.
+* Journal Reviewer: CSUR, TOIS, Pattern Recognition, TASLP, IPM, JIM, ESIN, SIVP.
+<!--, Scientific Reports.-->
 
 **Other Activities**
 * Counselor at Center for Student Learning and Development, Tsinghua University (Sep. 2016 - Aug. 2018)
