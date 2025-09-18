@@ -42,7 +42,7 @@ Recommended Repos
 
 Selected Publications
 ------
-* **Qianhui Wu*** , Kanzhi Cheng* , Rui Yang*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao, [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://microsoft.github.io/GUI-Actor/), preprint.
+* **Qianhui Wu*** , Kanzhi Cheng* , Rui Yang*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao, [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://microsoft.github.io/GUI-Actor/), NeurIPS-2025.
 * Jianwei Yang* , Reuben Tan* , **Qianhui Wu***, Ruijie Zheng, Baolin Peng, Yongyuan Liang, Yu Gu, Mu Cai, Seonghyeon Ye, Joel Jang, Yuquan Deng, Jianfeng Gao, [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/), CVPR-2025.
 * Zhuoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Xufang Luo, Hao Cheng, Dongsheng Li, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Jianfeng Gao, [Secom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/html/2403.12968v1), ICLR-2025, AFM@NeurIPS-2024.
 * Yucheng Li, Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Surin Ahn, Chengruidong Zhang, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu, [SharedContextBench: How Lossy are Long-context Methods in KV Cache Reuse](https://arxiv.org/abs/2412.10319), ICLR-2025.
