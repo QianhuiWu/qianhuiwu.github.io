@@ -22,7 +22,7 @@ News
 * [ 02/26/2025 ] [Magma](https://microsoft.github.io/Magma/) is accepted by CVPR 2025!
 
 <details markdown="1">
-<summary style="cursor: pointer; color: #52adc8; margin-top: 5px;">▶ Show more news</summary>
+<summary style="cursor: pointer; color: #52adc8; margin-top: 5px;">Show more news</summary>
 
 * [ 02/18/2025 ] We release [Magma](https://microsoft.github.io/Magma/), a foundation model for multimodal AI agents!
 * [ 01/22/2025 ] [SeCom](https://www.microsoft.com/en-us/research/project/secom/) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!
