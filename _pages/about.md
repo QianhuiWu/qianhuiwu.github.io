@@ -9,45 +9,28 @@ redirect_from:
 
 I'm a Senior Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/).
 I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2016 and 2021, respectively.
-My recent research focuses on computer use agent, tool calling, and agentic AI. <!--Information Extraction and low-resource NLP, Efficient LLMs.-->
+My recent research focuses on multimodal modeling and AI Agents. <!--Information Extraction and low-resource NLP, Efficient LLMs.-->
 
-<!--*📢 I'm looking for a self-motivated research intern who is passionate about AI agents (GUI/embodied agents, tool calling, and context management). If you are interested in these topics, feel free to email me your resume and a brief self-intro!-->
+📢 I'm looking for a self-motivated research intern who is passionate about AI agents (GUI/embodied agents, tool calling, and context management). If you are interested in these topics, feel free to email me your resume and a brief self-intro!
 
 News
 ------
-<div class="news-accordion">
-
-* [ 01/21/2026 ] You're welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!
 * [ 06/03/2025 ] Excited to release our [GUI-Actor](https://github.com/microsoft/GUI-Actor), a coordinate-free visual grounding method for GUI agents!
 * [ 04/28/2025 ] You're welcome to join our [4th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2025](https://computer-vision-in-the-wild.github.io/cvpr-2025)!
 * [ 02/26/2025 ] [Magma](https://microsoft.github.io/Magma/) is accepted by CVPR 2025!
 * [ 02/18/2025 ] We release [Magma](https://microsoft.github.io/Magma/), a foundation model for multimodal AI agents!
-
-<div class="news-hidden" id="older-news">
-
 * [ 01/22/2025 ] [SeCom](https://www.microsoft.com/en-us/research/project/secom/) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!
 * [ 09/25/2024 ] [MInference](https://arxiv.org/abs/2406.02536) is accepted at NeurIPS 2024 as a spotlight!
+<!--* [ 09/14/2024 ] I'm serving as an Area Chair for COLING 25!-->
+<!--* [ 06/03/2024 ] [MInference](https://arxiv.org/abs/2407.02490) and [LLM Position Bias paper](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.-->
 * [ 05/21/2024 ] [LLMLingua Series](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction), [AutoGen](https://microsoft.github.io/autogen/0.2/docs/topics/handling_long_contexts/compressing_text_w_llmligua), [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
-
-</div>
-
-<button class="news-toggle" onclick="toggleNews()">
-  <span class="arrow">▼</span> <span id="toggle-text">Show more</span>
-</button>
-
-</div>
-
-<script>
-function toggleNews() {
-  const content = document.getElementById('older-news');
-  const btn = document.querySelector('.news-toggle');
-  const text = document.getElementById('toggle-text');
-  
-  content.classList.toggle('show');
-  btn.classList.toggle('expanded');
-  text.textContent = content.classList.contains('show') ? 'Show less' : 'Show more';
-}
-</script>
+<!--* [05/16/2024] [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.-->
+<!--* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.-->
+<!--* [02/28/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
+<!--* [02/28/2024] [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).-->
+<!--* [10/26/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
+<!--* [10/10/2023] We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization.-->
+<!--* [10/09/2023] We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.-->
 
 Recommended Repos
 ------
