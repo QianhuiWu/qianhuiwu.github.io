@@ -15,7 +15,7 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
-<span class="news-date">Jan. 2026</span> You're welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
+<span class="news-date">Jan. 2026</span> Welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
 <span class="news-date">Jan. 2026</span> We release [SynthAgent](https://github.com/aiming-lab/SynthAgent), a task and trajectory synthetic framework for web agents!<br>
 <span class="news-date">Jan. 2026</span> [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!<br>
 <span class="news-date">Dec. 2025</span> We release [Argos](https://arxiv.org/pdf/2511.04307), a principled reward agent to train LMRMs for agentic tasks.<br>
@@ -55,6 +55,14 @@ Selected Publications 📚
 <details markdown="1" open>
 <summary style="cursor: pointer; color: #151515ff; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 
+* <span class="news-date">Preprint 2025</span> [Multimodal Reinforcement Learning with Agentic Verifier for AI Agents](https://arxiv.org/abs/2512.03438)
+   <br>Reuben Tan, Baolin Peng, Zhengyuan Yang, Hao Cheng, Oier Mees, Theodore Zhao, Andrea Tupini, Isar Meijier, **Qianhui Wu**, Yuncong Yang, Lars Liden, Yu Gu, Sheng Zhang, Xiaodong Liu, Lijuan Wang, Marc Pollefeys, Yong Jae Lee, Jianfeng Gao
+* <span class="news-date">Preprint 2025</span> [Adapting Web Agents with Synthetic Supervision](https://arxiv.org/pdf/2511.06101)
+   <br>Zhaoyang Wang, Yiming Liang, Xuchao Zhang, **Qianhui Wu**, Siwei Han, Anson Bastos, Rujia Wang, Chetan Bansal, Baolin Peng, Jianfeng Gao, Saravan Rajmohan, Huaxiu Yao
+* <span class="news-date">Preprint 2025</span> [GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents](https://arxiv.org/html/2403.12968v1)
+   <br>Jian Mu, Chaoyun Zhang, Chiming Ni, Lu Wang, Bo Qiao, Kartik Mathur, **Qianhui Wu**, Yuhang Xie, Xiaojun Ma, Mengyu Zhou, Si Qin, Liqun Li, Yu Kang, Minghua Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
+* <span class="news-date">ICLR-2026</span> [Dyna-Mind: Learning to Simulate from Experience for Better AI Agents](https://arxiv.org/pdf/2510.09577)
+   <br>Xiao Yu, Baolin Peng, Michel Galley, Hao Cheng, **Qianhui Wu**, Janardhan Kulkarni, Suman Nath, Zhou Yu, Jianfeng Gao
 * <span class="news-date">NeurIPS-2025</span> [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://microsoft.github.io/GUI-Actor/)
    <br>**Qianhui Wu**\*, Kanzhi Cheng\*, Rui Yang\*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao.
 * <span class="news-date">CVPR-2025</span> [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
@@ -64,16 +72,18 @@ Selected Publications 📚
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary style="cursor: pointer; color: #151515ff; margin-top: 5px;"><strong>Efficient LLM Inference</strong></summary>
 
+* <span class="news-date">ICML-2025</span> [MMInference: Accelerating Pre-filling for Long-Context Visual Language Models via Modality-Aware Permutation Sparse Attention](https://hqjiang.com/mminference.html)
+   <br>Yucheng Li, Huiqiang Jiang, Chengruidong Zhang, **Qianhui Wu**, Xufang Luo, Surin Ahn, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu.
 * <span class="news-date">ICLR-2025</span> [SharedContextBench: How Lossy are Long-context Methods in KV Cache Reuse](https://arxiv.org/abs/2412.10319)
    <br>Yucheng Li, Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Surin Ahn, Chengruidong Zhang, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu.
 * <span class="news-date">NeurIPS-2024</span> [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490)
    <br>Huiqiang Jiang\*, Yucheng Li\*, Chengruidong Zhang\*, **Qianhui Wu**, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
 * <span class="news-date">ACL-2024 Findings</span> [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/html/2403.12968v1)
    <br>Zhuoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang.
-* <span class="news-date">ACL-2024 Findings</span> [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839)
+* <span class="news-date">ACL-2024</span> [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839)
    <br>Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
 * <span class="news-date">EMNLP-2023</span> [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://aclanthology.org/2023.emnlp-main.825/)
    <br>Huiqiang Jiang, **Qianhui Wu**, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
