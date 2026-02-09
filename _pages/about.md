@@ -52,76 +52,53 @@ Recommended Repos 🧰
 
 Selected Publications 📚
 ------
-▶ **Agentic AI**
+<details markdown="1" open>
+<summary style="cursor: pointer; color: #151515ff; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 
-1. [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://microsoft.github.io/GUI-Actor/)
+* <span class="news-date">NeurIPS-2025</span> [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://microsoft.github.io/GUI-Actor/)
    <br>**Qianhui Wu**\*, Kanzhi Cheng\*, Rui Yang\*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao.
-   <br>*In Proc. of NeurIPS 2025*
-
-2. [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
+* <span class="news-date">CVPR-2025</span> [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
    <br>Jianwei Yang\*, Reuben Tan\*, **Qianhui Wu**\*, Ruijie Zheng, Baolin Peng, Yongyuan Liang, Yu Gu, Mu Cai, Seonghyeon Ye, Joel Jang, Yuquan Deng, Jianfeng Gao.
-   <br>*In Proc. of CVPR 2025*
-
-3. [SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/html/2403.12968v1)
+* <span class="news-date">ICLR-2025</span> [SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/html/2403.12968v1)
    <br>Zhuoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Xufang Luo, Hao Cheng, Dongsheng Li, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Jianfeng Gao.
-   <br>*In Proc. of ICLR 2025, AFM@NeurIPS 2024*
 
-▶**Efficient LLM Inference**
+</details>
 
-4. [SharedContextBench: How Lossy are Long-context Methods in KV Cache Reuse](https://arxiv.org/abs/2412.10319)
+<details markdown="1" open>
+<summary style="cursor: pointer; color: #151515ff; margin-top: 5px;"><strong>Efficient LLM Inference</strong></summary>
+
+* <span class="news-date">ICLR-2025</span> [SharedContextBench: How Lossy are Long-context Methods in KV Cache Reuse](https://arxiv.org/abs/2412.10319)
    <br>Yucheng Li, Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Surin Ahn, Chengruidong Zhang, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu.
-   <br>*In Proc. of ICLR 2025*
-
-5. [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490)
+* <span class="news-date">NeurIPS-2024</span> [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490)
    <br>Huiqiang Jiang\*, Yucheng Li\*, Chengruidong Zhang\*, **Qianhui Wu**, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
-   <br>*In Proc. of NeurIPS 2024 (Spotlight)*
-
-6. [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/html/2403.12968v1)
+* <span class="news-date">ACL-2024 Findings</span> [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/html/2403.12968v1)
    <br>Zhuoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang.
-   <br>*In Proc. of ACL 2024 Findings*
-
-7. [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839)
+* <span class="news-date">ACL-2024 Findings</span> [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839)
    <br>Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
-   <br>*In Proc. of ACL 2024, ME-FoMo@ICLR 2024*
-
-8. [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://aclanthology.org/2023.emnlp-main.825/)
+* <span class="news-date">EMNLP-2023</span> [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://aclanthology.org/2023.emnlp-main.825/)
    <br>Huiqiang Jiang, **Qianhui Wu**, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
-   <br>*In Proc. of EMNLP 2023*
-
-9. [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://aclanthology.org/2023.acl-long.403/)
+* <span class="news-date">ACL-2023</span> [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://aclanthology.org/2023.acl-long.403/)
    <br>**Qianhui Wu**, Huiqiang Jiang, Haonan Yin, Börje Karlsson, Chin-Yew Lin.
-   <br>*In Proc. of ACL 2023*
+
+</details>
 
 <details markdown="1">
-<summary style="cursor: pointer; color: #151515ff; margin-top: 5px;">**Information Extraction & Low-Resource NLP**</summary>
+<summary style="cursor: pointer; color: #151515ff; margin-top: 5px;"><strong>Information Extraction & Low-Resource NLP</strong></summary>
 
-10. [CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition](https://aclanthology.org/2023.acl-long.330/)
+* <span class="news-date">ACL-2023</span> [CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition](https://aclanthology.org/2023.acl-long.330/)
     <br>Tingting Ma, **Qianhui Wu**, Huiqiang Jiang, Börje Karlsson, Tiejun Zhao, Chin-Yew Lin.
-    <br>*In Proc. of ACL 2023*
-
-11. [Decomposed Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.124/)
+* <span class="news-date">ACL-2022 Findings</span> [Decomposed Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.124/)
     <br>Tingting Ma\*, Huiqiang Jiang\*, **Qianhui Wu**\*, Tiejun Zhao, Chin-Yew Lin.
-    <br>*In Proc. of ACL 2022 Findings*
-
-12. [On the Effectiveness of Sentence Encoding for Intent Detection Meta-Learning](https://aclanthology.org/2022.naacl-main.279/)
+* <span class="news-date">NAACL-2022</span> [On the Effectiveness of Sentence Encoding for Intent Detection Meta-Learning](https://aclanthology.org/2022.naacl-main.279/)
     <br>Tingting Ma, **Qianhui Wu**, Zhiwei Yu, Tiejun Zhao, Chin-Yew Lin.
-    <br>*In Proc. of NAACL 2022*
-
-13. [UniTrans: Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data](https://www.ijcai.org/Proceedings/2020/0543.pdf)
+* <span class="news-date">IJCAI-2020</span> [UniTrans: Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data](https://www.ijcai.org/Proceedings/2020/0543.pdf)
     <br>**Qianhui Wu**, Zijia Lin, Börje Karlsson, Biqing Huang, Jian-Guang Lou.
-    <br>*In Proc. of IJCAI 2020*
-
-14. [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://aclanthology.org/2020.acl-main.581/)
+* <span class="news-date">ACL-2020</span> [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://aclanthology.org/2020.acl-main.581/)
     <br>**Qianhui Wu**, Zijia Lin, Börje Karlsson, Jian-Guang Lou, Biqing Huang.
-    <br>*In Proc. of ACL 2020*
-
-15. [Enhanced Meta-Learning for Cross-Lingual Named Entity Recognition with Minimal Resources](https://aaai.org/papers/09274-enhanced-meta-learning-for-cross-lingual-named-entity-recognition-with-minimal-resources/)
+* <span class="news-date">AAAI-2020</span> [Enhanced Meta-Learning for Cross-Lingual Named Entity Recognition with Minimal Resources](https://aaai.org/papers/09274-enhanced-meta-learning-for-cross-lingual-named-entity-recognition-with-minimal-resources/)
     <br>**Qianhui Wu**, Zijia Lin, Guoxin Wang, Hui Chen, Börje Karlsson, Biqing Huang, Chin-Yew Lin.
-    <br>*In Proc. of AAAI 2020 (Spotlight)*
-
-16. [DeepMRT at the NTCIR-14 FinNum Task: A Hybrid Neural Model for Numeral Type Classification in Financial Tweets](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/07-NTCIR14-FINNUM-WuQ.pdf)
+* <span class="news-date">NTCIR-2019</span> [DeepMRT at the NTCIR-14 FinNum Task: A Hybrid Neural Model for Numeral Type Classification in Financial Tweets](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/07-NTCIR14-FINNUM-WuQ.pdf)
     <br>**Qianhui Wu**\*, Guoxin Wang\*, Yuyin Zhu, Haoyan Liu, Börje Karlsson.
-    <br>*In Proc. of NTCIR 2019*
 
 </details>
 
