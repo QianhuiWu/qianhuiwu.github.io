@@ -13,34 +13,36 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 📢 I'm looking for a self-motivated research intern who is passionate about AI agents (GUI/embodied agents, tool calling, and context management). If you are interested in these topics, feel free to email me your resume and a brief self-intro!
 
-News
+News 🌟
 ------
-* <span class="news-date">01/21/2026</span> You're welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!
-* <span class="news-date">10/10/2025</span> We release [Dyna-Mind](https://arxiv.org/pdf/2510.09577), learning to simulate from experience for better AI agents!
-* <span class="news-date">06/03/2025</span> Excited to release our [GUI-Actor](https://github.com/microsoft/GUI-Actor), a coordinate-free visual grounding method for GUI agents!
-* <span class="news-date">04/28/2025</span> You're welcome to join our [4th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2025](https://computer-vision-in-the-wild.github.io/cvpr-2025)!
-* <span class="news-date">04/22/2025</span> We release [MMInference](http://aka.ms/mminference), accelerating pre-filling for long-context VLMs via modality-aware permutation sparse attention.
-* <span class="news-date">02/26/2025</span> [Magma](https://microsoft.github.io/Magma/) is accepted by CVPR 2025!
+<span class="news-date">Jan. 2026</span> You're welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
+<span class="news-date">Jan. 2026</span> We release [SynthAgent](https://github.com/aiming-lab/SynthAgent), a task and trajectory synthetic framework for web agents!<br>
+<span class="news-date">Jan. 2026</span> [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!<br>
+<span class="news-date">Dec. 2025</span> We release [Argos](https://arxiv.org/pdf/2511.04307), a principled reward agent to train LMRMs for agentic tasks.<br>
+<span class="news-date">Nov. 2025</span> We release [GUI-360](https://arxiv.org/pdf/2511.04307), a comprehensive dataset and benchmark for CUA!<br>
+<span class="news-date">Jun. 2025</span> Excited to release [GUI-Actor](https://github.com/microsoft/GUI-Actor), a coordinate-free visual grounding method for GUI agents!<br>
 
 <details markdown="1">
 <summary style="cursor: pointer; color: #52adc8; margin-top: 5px;">Show more news</summary>
 
-* <span class="news-date">02/18/2025</span> We release [Magma](https://microsoft.github.io/Magma/), a foundation model for multimodal AI agents!
-* <span class="news-date">01/22/2025</span> [SeCom](https://www.microsoft.com/en-us/research/project/secom/) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!
-* <span class="news-date">09/25/2024</span> [MInference](https://arxiv.org/abs/2406.02536) is accepted at NeurIPS 2024 as a spotlight!
-* <span class="news-date">09/14/2024</span> I'm serving as an Area Chair for COLING 25!
-* <span class="news-date">06/03/2024</span> [MInference](https://arxiv.org/abs/2407.02490) and [LLM Position Bias paper](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
-* <span class="news-date">05/21/2024</span> [LLMLingua Series](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction), [AutoGen](https://microsoft.github.io/autogen/0.2/docs/topics/handling_long_contexts/compressing_text_w_llmligua), [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
-* <span class="news-date">05/16/2024</span> [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
-* <span class="news-date">03/19/2024</span> We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.
-<!--* <span class="news-date">02/28/2024</span> [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).-->
-<!--* <span class="news-date">10/26/2023</span> [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
-* <span class="news-date">10/10/2023</span> We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization.
-* <span class="news-date">10/09/2023</span> We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.
+<span class="news-date">Apr. 2025</span> You're welcome to join our [4th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2025](https://computer-vision-in-the-wild.github.io/cvpr-2025)!<br>
+<span class="news-date">Apr. 2025</span> We release [MMInference](http://aka.ms/mminference), accelerating pre-filling for long-context VLMs!<br>
+<span class="news-date">Feb. 2025</span> We release [Magma](https://microsoft.github.io/Magma/), a foundation model for multimodal AI agents!<br>
+<span class="news-date">Jan. 2025</span> [SeCom](https://www.microsoft.com/en-us/research/project/secom/) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!<br>
+<span class="news-date">Sep. 2024</span> [MInference](https://arxiv.org/abs/2406.02536) is accepted at NeurIPS 2024 as a spotlight!<br>
+<span class="news-date">Sep. 2024</span> I'm serving as an Area Chair for COLING 25!<br>
+<span class="news-date">Jun. 2024</span> [MInference](https://arxiv.org/abs/2407.02490) and [LLM Position Bias paper](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.<br>
+<span class="news-date">May. 2024</span> [LLMLingua Series](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction), [AutoGen](https://microsoft.github.io/autogen/0.2/docs/topics/handling_long_contexts/compressing_text_w_llmligua), [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).<br>
+<span class="news-date">May. 2024</span> [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings!<br>
+<span class="news-date">Mar. 2024</span> We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua!<br>
+<!--<span class="news-date">02/28/2024</span> [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).-->
+<!--<span class="news-date">10/26/2023</span> [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
+<span class="news-date">Oct. 2023</span> We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization!<br>
+<span class="news-date">10/09/2023</span> We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B!<br>
 
 </details>
 
-Recommended Repos
+Recommended Repos 🧰
 ------
 * [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://github.com/microsoft/GUI-Actor) [![Stars](https://img.shields.io/github/stars/microsoft/GUI-Actor?color=yellow&style=social)](https://github.com/microsoft/GUI-Actor)
 * [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/) [![Stars](https://img.shields.io/github/stars/microsoft/Magma?color=yellow&style=social)](https://github.com/microsoft/Magma)
@@ -48,7 +50,7 @@ Recommended Repos
 * [LLMLingua Series for Prompt Compression](https://github.com/microsoft/LLMLingua) [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?color=yellow&style=social)](https://github.com/microsoft/LLMLingua)
 * [Versatile Entity Recognition & disambiguation Toolkit](https://github.com/microsoft/vert-papers) [![Stars](https://img.shields.io/github/stars/microsoft/vert-papers?color=yellow&style=social)](https://github.com/microsoft/vert-papers)
 
-Selected Publications
+Selected Publications 📚
 ------
 * **Qianhui Wu*** , Kanzhi Cheng* , Rui Yang*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao, [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://microsoft.github.io/GUI-Actor/), NeurIPS-2025.
 * Jianwei Yang* , Reuben Tan* , **Qianhui Wu***, Ruijie Zheng, Baolin Peng, Yongyuan Liang, Yu Gu, Mu Cai, Seonghyeon Ye, Joel Jang, Yuquan Deng, Jianfeng Gao, [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/), CVPR-2025.
@@ -70,37 +72,37 @@ Selected Publications
 <!--* **Qianhui Wu*** , Guoxin Wang*, Yuyin Zhu, Haoyan Liu, Börje Karlsson, [DeepMRT at the NTCIR-14 FinNum task: a hybrid neural model for numeral type classification in financial tweets](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/07-NTCIR14-FINNUM-WuQ.pdf), NTCIR-2019.-->
 <!--* **Qianhui Wu**, Keqin Ding, Biqing Huang, [Approach for Fault Prognosis Using Recurrent Neural Network](https://link.springer.com/article/10.1007/s10845-018-1428-5), JIM-2018.-->
 
-Honors & Awards
+Honors & Awards 🏆
 ------
-* [Microsoft 2024 Global Hackathon Executive Challenge Winner](https://www.credly.com/earner/earned/badge/c5462195-58cb-4ea3-bfa6-421f28d14c70) (2024)
-* [Microsoft Machine Learning, AI & Data Science Conference (MLADS) Distinguished Contribution](https://www.credly.com/badges/de094913-37b0-441d-ac1d-955d3c01ef1d) Award Winner (2024)
-* [Microsoft 2023 Global Hackathon Award Winner](https://www.credly.com/badges/2f60ed04-4548-4d7c-a80f-c765ad6cee0f) (2023)
-<!--* Outstanding Intern of "Stars of Tomorrow" Program, Microsoft Research Asia (2020)-->
-* Intel Scholarship (2020)
-<!--* Second Place Winner of NTCIR-2019 FinNum Task (2019)-->
-<!--* Second-Class Scholarship, Tsinghua University (2018)-->
-* Outstanding (12-9) Counselor Prize, Tsinghua University (2018)
-* Outstanding Bachelor Thesis, Tsinghua University (2016)
-<!--* Second Prize of Challenge Cup, Tsinghua University (2015)-->
-* National Encouragement Scholarship (2014)
-* Scholarship of Art Excellence, Tsinghua University (2014)
-* Scholarship of Academic Excellence, Tsinghua University (2013)
+<span class="news-date">2024</span> [Microsoft 2024 Global Hackathon Executive Challenge Winner](https://www.credly.com/earner/earned/badge/c5462195-58cb-4ea3-bfa6-421f28d14c70)<br>
+<span class="news-date">2024</span> [Microsoft Machine Learning, AI & Data Science Conference (MLADS) Distinguished Contribution](https://www.credly.com/badges/de094913-37b0-441d-ac1d-955d3c01ef1d)<br>
+<span class="news-date">2023</span> [Microsoft 2023 Global Hackathon Award Winner](https://www.credly.com/badges/2f60ed04-4548-4d7c-a80f-c765ad6cee0f)<br>
+<span class="news-date">2020</span> Outstanding Intern of "Stars of Tomorrow" Program, Microsoft Research Asia<br>
+<span class="news-date">2020</span> Intel Scholarship<br>
+<!--span class="news-date">2019</span> Second Place Winner of NTCIR-2019 FinNum Task<br-->
+<!--span class="news-date">2018</span> Second-Class Scholarship, Tsinghua University<br-->
+<span class="news-date">2018</span> Outstanding (12-9) Counselor Prize, Tsinghua University<br>
+<span class="news-date">2016</span> Outstanding Bachelor Thesis, Tsinghua University<br>
+<!--span class="news-date">2015</span> Second Prize of Challenge Cup, Tsinghua University<br-->
+<span class="news-date">2014</span> National Encouragement Scholarship<br>
+<span class="news-date">2014</span> Scholarship of Art Excellence, Tsinghua University<br>
+<span class="news-date">2013</span> Scholarship of Academic Excellence, Tsinghua University
 
-Other Information
+Other Information 📝
 ------
 **Invited Talks**
-* [ 09/05/2025 ] Towards AI Agents That Can See And Act @ Shanghai Artificial Intelligence Laboratory
-* [ 06/25/2025 ] Act Where You See: Coordinate-Free Visual Grounding for GUI Agents @ Simular Seminar
+<span class="news-date">Sep. 2025</span> Towards AI Agents That Can See And Act @ Shanghai Artificial Intelligence Laboratory<br>
+<span class="news-date">Jun. 2025</span> Act Where You See: Coordinate-Free Visual Grounding for GUI Agents @ Simular Seminar
 
 **Academic Service**
 * Area Chair: COLING-25.
-* Conference Reviewer: ICLR, NeurIPS, ACL, EMNLP, NAACL, AAAI, NLPCC.
+* Conference Reviewer: ICLR, NeurIPS, CVPR, ACL, EMNLP, NAACL, AAAI, NLPCC.
 * Journal Reviewer: CSUR, TOIS, Pattern Recognition, TASLP, IPM, JIM, ESIN, SIVP.
 <!--, Scientific Reports.-->
 
 **Other Activities**
-* Counselor at Center for Student Learning and Development, Tsinghua University (Sep. 2016 - Aug. 2018)
-* Member of Chinese National Orchestra, Tsinghua University (Aug. 2012 - Jun. 2021)
+<span class="news-date">Sep. 2016 - Aug. 2018</span> Counselor at Center for Student Learning and Development, Tsinghua University<br>
+<span class="news-date">Aug. 2012 - Jun. 2021</span> Member of Chinese National Orchestra, Tsinghua University
 
 ------
 <div style="width: 400px; margin: auto;">
