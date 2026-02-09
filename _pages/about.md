@@ -46,7 +46,7 @@ Recommended Repos 🧰
 ------
 * [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://github.com/microsoft/GUI-Actor) [![Stars](https://img.shields.io/github/stars/microsoft/GUI-Actor?color=yellow&style=social)](https://github.com/microsoft/GUI-Actor)
 * [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/) [![Stars](https://img.shields.io/github/stars/microsoft/Magma?color=yellow&style=social)](https://github.com/microsoft/Magma)
-* [MInference: Million-Tokens Prompt Inference for Long-context LLMs](https://arxiv.org/abs/2407.02490) [![Stars](https://img.shields.io/github/stars/microsoft/MInference?color=yellow&style=social)](https://github.com/microsoft/MInference)
+* [MInference: Million-Tokens Prompt Inference for Long-context LLMs](https://github.com/microsoft/MInference) [![Stars](https://img.shields.io/github/stars/microsoft/MInference?color=yellow&style=social)](https://github.com/microsoft/MInference)
 * [LLMLingua Series for Prompt Compression](https://github.com/microsoft/LLMLingua) [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?color=yellow&style=social)](https://github.com/microsoft/LLMLingua)
 * [Versatile Entity Recognition & disambiguation Toolkit](https://github.com/microsoft/vert-papers) [![Stars](https://img.shields.io/github/stars/microsoft/vert-papers?color=yellow&style=social)](https://github.com/microsoft/vert-papers)
 
