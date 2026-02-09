@@ -38,7 +38,7 @@ News 🌟
 <!--<span class="news-date">02/28/2024</span> [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).-->
 <!--<span class="news-date">10/26/2023</span> [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
 <span class="news-date">Oct. 2023</span> We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization!<br>
-<span class="news-date">10/09/2023</span> We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B!<br>
+<span class="news-date">Oct. 2023</span> We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B!<br>
 
 </details>
 
@@ -53,7 +53,7 @@ Recommended Repos 🧰
 Selected Publications 📚
 ------
 <details markdown="1" open>
-<summary style="cursor: pointer; color: #151515ff; margin-top: 5px;"><strong>Agentic AI</strong></summary>
+<summary style="cursor: pointer; color: #19191967; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 
 * <span class="news-date">Preprint 2025</span> [Multimodal Reinforcement Learning with Agentic Verifier for AI Agents](https://arxiv.org/abs/2512.03438)
    <br>Reuben Tan, Baolin Peng, Zhengyuan Yang, Hao Cheng, Oier Mees, Theodore Zhao, Andrea Tupini, Isar Meijier, **Qianhui Wu**, Yuncong Yang, Lars Liden, Yu Gu, Sheng Zhang, Xiaodong Liu, Lijuan Wang, Marc Pollefeys, Yong Jae Lee, Jianfeng Gao
@@ -73,7 +73,7 @@ Selected Publications 📚
 </details>
 
 <details markdown="1">
-<summary style="cursor: pointer; color: #151515ff; margin-top: 5px;"><strong>Efficient LLM Inference</strong></summary>
+<summary style="cursor: pointer; color: #19191967; margin-top: 5px;"><strong>Efficient LLM Inference</strong></summary>
 
 * <span class="news-date">ICML-2025</span> [MMInference: Accelerating Pre-filling for Long-Context Visual Language Models via Modality-Aware Permutation Sparse Attention](https://hqjiang.com/mminference.html)
    <br>Yucheng Li, Huiqiang Jiang, Chengruidong Zhang, **Qianhui Wu**, Xufang Luo, Surin Ahn, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu.
@@ -93,7 +93,7 @@ Selected Publications 📚
 </details>
 
 <details markdown="1">
-<summary style="cursor: pointer; color: #151515ff; margin-top: 5px;"><strong>Information Extraction & Low-Resource NLP</strong></summary>
+<summary style="cursor: pointer; color: #19191967; margin-top: 5px;"><strong>Information Extraction & Low-Resource NLP</strong></summary>
 
 * <span class="news-date">ACL-2023</span> [CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition](https://aclanthology.org/2023.acl-long.330/)
     <br>Tingting Ma, **Qianhui Wu**, Huiqiang Jiang, Börje Karlsson, Tiejun Zhao, Chin-Yew Lin.
