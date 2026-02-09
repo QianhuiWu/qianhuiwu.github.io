@@ -15,8 +15,8 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News
 ------
-* <span class="news-date">01/26/2026</span> [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!
 * <span class="news-date">01/21/2026</span> You're welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!
+* <span class="news-date">10/10/2025</span> We release [Dyna-Mind](https://arxiv.org/pdf/2510.09577), learning to simulate from experience for better AI agents!
 * <span class="news-date">06/03/2025</span> Excited to release our [GUI-Actor](https://github.com/microsoft/GUI-Actor), a coordinate-free visual grounding method for GUI agents!
 * <span class="news-date">04/28/2025</span> You're welcome to join our [4th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2025](https://computer-vision-in-the-wild.github.io/cvpr-2025)!
 * <span class="news-date">04/22/2025</span> We release [MMInference](http://aka.ms/mminference), accelerating pre-filling for long-context VLMs via modality-aware permutation sparse attention.
@@ -33,8 +33,8 @@ News
 * <span class="news-date">05/21/2024</span> [LLMLingua Series](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction), [AutoGen](https://microsoft.github.io/autogen/0.2/docs/topics/handling_long_contexts/compressing_text_w_llmligua), [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
 * <span class="news-date">05/16/2024</span> [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
 * <span class="news-date">03/19/2024</span> We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.
-<!--* <span class="news-date">02/28/2024</span> [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).
-* <span class="news-date">10/26/2023</span> [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
+<!--* <span class="news-date">02/28/2024</span> [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).-->
+<!--* <span class="news-date">10/26/2023</span> [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
 * <span class="news-date">10/10/2023</span> We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization.
 * <span class="news-date">10/09/2023</span> We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.
 
