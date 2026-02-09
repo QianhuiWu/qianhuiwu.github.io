@@ -15,27 +15,28 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News
 ------
-* [ 01/26/2026 ] [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!
-* [ 01/21/2026 ] You're welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!
-* [ 06/03/2025 ] Excited to release our [GUI-Actor](https://github.com/microsoft/GUI-Actor), a coordinate-free visual grounding method for GUI agents!
-* [ 04/28/2025 ] You're welcome to join our [4th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2025](https://computer-vision-in-the-wild.github.io/cvpr-2025)!
-* [ 02/26/2025 ] [Magma](https://microsoft.github.io/Magma/) is accepted by CVPR 2025!
+* <span class="news-date">01/26/2026</span> [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!
+* <span class="news-date">01/21/2026</span> You're welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!
+* <span class="news-date">06/03/2025</span> Excited to release our [GUI-Actor](https://github.com/microsoft/GUI-Actor), a coordinate-free visual grounding method for GUI agents!
+* <span class="news-date">04/28/2025</span> You're welcome to join our [4th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2025](https://computer-vision-in-the-wild.github.io/cvpr-2025)!
+* <span class="news-date">04/22/2025</span> We release [MMInference](http://aka.ms/mminference), accelerating pre-filling for long-context VLMs via modality-aware permutation sparse attention.
+* <span class="news-date">02/26/2025</span> [Magma](https://microsoft.github.io/Magma/) is accepted by CVPR 2025!
 
 <details markdown="1">
 <summary style="cursor: pointer; color: #52adc8; margin-top: 5px;">Show more news</summary>
 
-* [ 02/18/2025 ] We release [Magma](https://microsoft.github.io/Magma/), a foundation model for multimodal AI agents!
-* [ 01/22/2025 ] [SeCom](https://www.microsoft.com/en-us/research/project/secom/) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!
-* [ 09/25/2024 ] [MInference](https://arxiv.org/abs/2406.02536) is accepted at NeurIPS 2024 as a spotlight!
-* [ 09/14/2024 ] I'm serving as an Area Chair for COLING 25!
-* [ 06/03/2024 ] [MInference](https://arxiv.org/abs/2407.02490) and [LLM Position Bias paper](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
-* [ 05/21/2024 ] [LLMLingua Series](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction), [AutoGen](https://microsoft.github.io/autogen/0.2/docs/topics/handling_long_contexts/compressing_text_w_llmligua), [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
-* [05/16/2024] [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
-* [03/19/2024] We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.
-<!--* [02/28/2024] [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).
-* [10/26/2023] [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
-* [10/10/2023] We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization.
-* [10/09/2023] We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.
+* <span class="news-date">02/18/2025</span> We release [Magma](https://microsoft.github.io/Magma/), a foundation model for multimodal AI agents!
+* <span class="news-date">01/22/2025</span> [SeCom](https://www.microsoft.com/en-us/research/project/secom/) and [SCBench](https://arxiv.org/abs/2412.10319) are accepted at ICLR 2025!
+* <span class="news-date">09/25/2024</span> [MInference](https://arxiv.org/abs/2406.02536) is accepted at NeurIPS 2024 as a spotlight!
+* <span class="news-date">09/14/2024</span> I'm serving as an Area Chair for COLING 25!
+* <span class="news-date">06/03/2024</span> [MInference](https://arxiv.org/abs/2407.02490) and [LLM Position Bias paper](https://arxiv.org/abs/2406.02536) are accepted to ES-FoMo II @ ICML24 and LCFM @ ICML24, respectively.
+* <span class="news-date">05/21/2024</span> [LLMLingua Series](https://llmlingua.com/llmlingua.html) has been integrated as a custom tool in [Prompt Flow](https://microsoft.github.io/promptflow/integrations/tools/llmlingua-prompt-compression-tool.html#introduction), [AutoGen](https://microsoft.github.io/autogen/0.2/docs/topics/handling_long_contexts/compressing_text_w_llmligua), [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb) and [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).
+* <span class="news-date">05/16/2024</span> [LongLLMLingua](https://llmlingua.com/longllmlingua.html) and [LLMLingua-2](https://llmlingua.com/llmlingua2.html) are accepted to ACL-2024 in main track and findings.
+* <span class="news-date">03/19/2024</span> We release [LLMLingua-2](https://llmlingua.com/llmlingua2.html), an efficient option for task-agnostic prompt compression with good performance and generalizability across different scenarios, boasting a 3x-6x speed improvement over LLMLingua.
+<!--* <span class="news-date">02/28/2024</span> [LLMLingua Series](https://llmlingua.com/) has been added as a document compressor in [LangChain](https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/retrievers/llmlingua.ipynb).
+* <span class="news-date">10/26/2023</span> [LLMLingua Series](https://llmlingua.com/) has been integrated into [LlamaIndex](https://github.com/run-llama/llama_index/blob/main/llama-index-legacy/llama_index/legacy/postprocessor/longllmlingua.py).-->
+* <span class="news-date">10/10/2023</span> We release [LongLLMLingua](https://llmlingua.com/longllmlingua.html), aiming to accelerate and enhance LLM inference in long-context scenarios via question-aware prompt compression and content reorganization.
+* <span class="news-date">10/09/2023</span> We release [LLMLingua](https://llmlingua.com/llmlingua.html), a coarse-to-fine prompt compression method based on perplexity from a small language model such as LLaMA-7B.
 
 </details>
 

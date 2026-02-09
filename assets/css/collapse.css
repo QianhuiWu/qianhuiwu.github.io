@@ -18,3 +18,11 @@
     display: none;
     padding: 5px;
 }
+
+/* News date styling */
+.news-date {
+    display: inline-block;
+    width: 85px;
+    color: #7a8288;
+    font-size: 0.95em;
+}
