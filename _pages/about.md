@@ -52,9 +52,12 @@ Recommended Repos 🧰
 
 Selected Publications 📚
 ------
+**Agentic AI**
 * **Qianhui Wu*** , Kanzhi Cheng* , Rui Yang*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao, [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://microsoft.github.io/GUI-Actor/), NeurIPS-2025.
 * Jianwei Yang* , Reuben Tan* , **Qianhui Wu***, Ruijie Zheng, Baolin Peng, Yongyuan Liang, Yu Gu, Mu Cai, Seonghyeon Ye, Joel Jang, Yuquan Deng, Jianfeng Gao, [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/), CVPR-2025.
 * Zhuoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Xufang Luo, Hao Cheng, Dongsheng Li, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Jianfeng Gao, [Secom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/html/2403.12968v1), ICLR-2025, AFM@NeurIPS-2024.
+
+**Efficient LLM Inference**
 * Yucheng Li, Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Surin Ahn, Chengruidong Zhang, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu, [SharedContextBench: How Lossy are Long-context Methods in KV Cache Reuse](https://arxiv.org/abs/2412.10319), ICLR-2025.
 * Huiqiang Jiang* , Yucheng Li* , Chengruidong Zhang*, **Qianhui Wu**, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu, [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490), NeurIPS-2024 spotlight.
 * Zhoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang, [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/html/2403.12968v1), ACL-2024 Findings.
@@ -62,15 +65,19 @@ Selected Publications 📚
 <!--* Tingting Ma, **Qianhui Wu**, Huiqiang Jiang, Jieru Lin, Börje Karlsson, Tiejun Zhao, Chin-Yew Lin, [Decomposed Meta-Learning for Few-Shot Sequence Labeling](https://ieeexplore.ieee.org/document/10458261/), TASLP-2024.-->
 * Huiqiang Jiang, **Qianhui Wu**, Chin-Yew Lin, Yuqing Yang, Lili Qiu, [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://aclanthology.org/2023.emnlp-main.825/), EMNLP-2023.
 * **Qianhui Wu**, Huiqiang Jiang, Haonan Yin, Börje Karlsson, Chin-Yew Lin, [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://aclanthology.org/2023.acl-long.403/), ACL-2023.
-<!--* Tingting Ma, **Qianhui Wu**, Huiqiang Jiang, Börje Karlsson, Tiejun Zhao, Chin-Yew Lin, [CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition](https://aclanthology.org/2023.acl-long.330/), ACL-2023.-->
-<!--* Tingting Ma* , Huiqiang Jiang* , **Qianhui Wu***, Tiejun Zhao, Chin-Yew Lin, [Decomposed Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.124/), ACL-2022 Findings.-->
-<!--* Tingting Ma, **Qianhui Wu**, Zhiwei Yu, Tiejun Zhao, Chin-Yew Lin, [On the Effectiveness of Sentence Encoding for Intent Detection Meta-Learning](https://aclanthology.org/2022.naacl-main.279/), NAACL-2022.-->
+
+<details markdown="1">
+<summary style="cursor: pointer; color: #151515ff; margin-top: 5px;">Information Extraction & Low-Resource NLP</summary>
+* Tingting Ma, **Qianhui Wu**, Huiqiang Jiang, Börje Karlsson, Tiejun Zhao, Chin-Yew Lin, [CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition](https://aclanthology.org/2023.acl-long.330/), ACL-2023.
+* Tingting Ma* , Huiqiang Jiang* , **Qianhui Wu***, Tiejun Zhao, Chin-Yew Lin, [Decomposed Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.124/), ACL-2022 Findings.
+* Tingting Ma, **Qianhui Wu**, Zhiwei Yu, Tiejun Zhao, Chin-Yew Lin, [On the Effectiveness of Sentence Encoding for Intent Detection Meta-Learning](https://aclanthology.org/2022.naacl-main.279/), NAACL-2022.
 <!--* Yu Mo* , **Qianhui Wu***, Xiu Li, Biqing Huang, [Remaining Useful Life Estimation via Transformer Encoder Enhanced by a Gated Convolutional Unit](https://link.springer.com/article/10.1007/s10845-021-01750-x), JIM-2021.-->
-<!--* **Qianhui Wu**, Zijia Lin, Börje Karlsson, Biqing Huang, Jian-Guang Lou, [Unitrans: Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data](https://www.ijcai.org/Proceedings/2020/0543.pdf), IJCAI-2020.-->
-<!--* **Qianhui Wu**, Zijia Lin, Börje Karlsson, Jian-Guang Lou, Biqing Huang, [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://aclanthology.org/2020.acl-main.581/), ACL-2020.-->
-<!--* **Qianhui Wu**, Zijia Lin, Guoxin Wang, Hui Chen, Börje Karlsson, Biqing Huang, Chin-Yew Lin, [Enhanced Meta-Learning for Cross-Lingual Named Entity Recognition with Minimal Resources](https://aaai.org/papers/09274-enhanced-meta-learning-for-cross-lingual-named-entity-recognition-with-minimal-resources/), AAAI-2020 spotlight.-->
-<!--* **Qianhui Wu*** , Guoxin Wang*, Yuyin Zhu, Haoyan Liu, Börje Karlsson, [DeepMRT at the NTCIR-14 FinNum task: a hybrid neural model for numeral type classification in financial tweets](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/07-NTCIR14-FINNUM-WuQ.pdf), NTCIR-2019.-->
+* **Qianhui Wu**, Zijia Lin, Börje Karlsson, Biqing Huang, Jian-Guang Lou, [Unitrans: Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data](https://www.ijcai.org/Proceedings/2020/0543.pdf), IJCAI-2020.
+* **Qianhui Wu**, Zijia Lin, Börje Karlsson, Jian-Guang Lou, Biqing Huang, [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://aclanthology.org/2020.acl-main.581/), ACL-2020.
+* **Qianhui Wu**, Zijia Lin, Guoxin Wang, Hui Chen, Börje Karlsson, Biqing Huang, Chin-Yew Lin, [Enhanced Meta-Learning for Cross-Lingual Named Entity Recognition with Minimal Resources](https://aaai.org/papers/09274-enhanced-meta-learning-for-cross-lingual-named-entity-recognition-with-minimal-resources/), AAAI-2020 spotlight.
+* **Qianhui Wu*** , Guoxin Wang*, Yuyin Zhu, Haoyan Liu, Börje Karlsson, [DeepMRT at the NTCIR-14 FinNum task: a hybrid neural model for numeral type classification in financial tweets](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/07-NTCIR14-FINNUM-WuQ.pdf), NTCIR-2019.
 <!--* **Qianhui Wu**, Keqin Ding, Biqing Huang, [Approach for Fault Prognosis Using Recurrent Neural Network](https://link.springer.com/article/10.1007/s10845-018-1428-5), JIM-2018.-->
+</details>
 
 Honors & Awards 🏆
 ------
@@ -91,16 +98,19 @@ Honors & Awards 🏆
 Other Information 📝
 ------
 **Invited Talks**
+
 <span class="news-date">Sep. 2025</span> Towards AI Agents That Can See And Act @ Shanghai Artificial Intelligence Laboratory<br>
 <span class="news-date">Jun. 2025</span> Act Where You See: Coordinate-Free Visual Grounding for GUI Agents @ Simular Seminar
 
 **Academic Service**
+
 * Area Chair: COLING-25.
 * Conference Reviewer: ICLR, NeurIPS, CVPR, ACL, EMNLP, NAACL, AAAI, NLPCC.
 * Journal Reviewer: CSUR, TOIS, Pattern Recognition, TASLP, IPM, JIM, ESIN, SIVP.
 <!--, Scientific Reports.-->
 
 **Other Activities**
+
 <span class="news-date">Sep. 2016 - Aug. 2018</span> Counselor at Center for Student Learning and Development, Tsinghua University<br>
 <span class="news-date">Aug. 2012 - Jun. 2021</span> Member of Chinese National Orchestra, Tsinghua University
 
