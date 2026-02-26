@@ -55,6 +55,8 @@ Selected Publications 📚
 <details markdown="1" open>
 <summary style="cursor: pointer; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 
+* <span class="news-date">Preprint 2026</span> [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190)
+   <br>Rui Yang, **Qianhui Wu**, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baoling Peng, Huan Zhang, Jianfeng Gao, Tong Zhang
 * <span class="news-date">Preprint 2025</span> [Multimodal Reinforcement Learning with Agentic Verifier for AI Agents](https://arxiv.org/abs/2512.03438)
    <br>Reuben Tan, Baolin Peng, Zhengyuan Yang, Hao Cheng, Oier Mees, Theodore Zhao, Andrea Tupini, Isar Meijier, **Qianhui Wu**, Yuncong Yang, Lars Liden, Yu Gu, Sheng Zhang, Xiaodong Liu, Lijuan Wang, Marc Pollefeys, Yong Jae Lee, Jianfeng Gao
 * <span class="news-date">Preprint 2025</span> [Adapting Web Agents with Synthetic Supervision](https://arxiv.org/pdf/2511.06101)
