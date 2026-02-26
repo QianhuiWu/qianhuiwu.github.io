@@ -71,7 +71,7 @@ Selected Publications 📚
    <br>**Qianhui Wu**\*, Kanzhi Cheng\*, Rui Yang\*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao.
 * <span class="news-date">CVPR-2025</span> [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
    <br>Jianwei Yang\*, Reuben Tan\*, **Qianhui Wu**\*, Ruijie Zheng, Baolin Peng, Yongyuan Liang, Yu Gu, Mu Cai, Seonghyeon Ye, Joel Jang, Yuquan Deng, Jianfeng Gao.
-* <span class="news-date">ICLR-2025</span> [SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/html/2403.12968v1)
+* <span class="news-date">ICLR-2025</span> [SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/abs/2502.05589)
    <br>Zhuoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Xufang Luo, Hao Cheng, Dongsheng Li, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Jianfeng Gao.
 
 </details>
