@@ -15,7 +15,7 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
-<span class="news-date">Jan. 2026</span> We release paper, code, data, and models for [GUI-Libra](https://gui-libra.github.io/)!<br>
+<span class="news-date">Feb. 2026</span> We release paper, code, data, and models for [GUI-Libra](https://gui-libra.github.io/)!<br>
 <span class="news-date">Jan. 2026</span> Welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
 <span class="news-date">Jan. 2026</span> We release [SynthAgent](https://github.com/aiming-lab/SynthAgent), a task and trajectory synthetic framework for web agents!<br>
 <span class="news-date">Jan. 2026</span> [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!<br>
