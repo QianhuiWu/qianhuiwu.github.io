@@ -19,7 +19,7 @@ News 🌟
 <span class="news-date">Jan. 2026</span> Welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
 <span class="news-date">Jan. 2026</span> We release [SynthAgent](https://github.com/aiming-lab/SynthAgent), a task and trajectory synthetic framework for web agents!<br>
 <span class="news-date">Jan. 2026</span> [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!<br>
-<span class="news-date">Dec. 2025</span> We release [Argos](https://arxiv.org/pdf/2511.04307), a principled reward agent to train LMRMs for agentic tasks.<br>
+<span class="news-date">Dec. 2025</span> We release [Argos](https://arxiv.org/abs/2512.03438), a principled reward agent to train LMRMs for agentic tasks.<br>
 <span class="news-date">Nov. 2025</span> We release [GUI-360](https://arxiv.org/pdf/2511.04307), a comprehensive dataset and benchmark for CUA!<br>
 <span class="news-date">Jun. 2025</span> Excited to release [GUI-Actor](https://github.com/microsoft/GUI-Actor), a coordinate-free visual grounding method for GUI agents!<br>
 
