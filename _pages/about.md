@@ -15,6 +15,7 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
+<span class="news-date">Jan. 2026</span> We release paper, code, data, and models for [GUI-Libra](https://github.com/GUI-Libra/GUI-Libra)!<br>
 <span class="news-date">Jan. 2026</span> Welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
 <span class="news-date">Jan. 2026</span> We release [SynthAgent](https://github.com/aiming-lab/SynthAgent), a task and trajectory synthetic framework for web agents!<br>
 <span class="news-date">Jan. 2026</span> [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!<br>
@@ -44,6 +45,7 @@ News 🌟
 
 Recommended Repos 🧰
 ------
+* [GUI-Libra: Training Native GUI Agents with Action-aware Supervision and Partially Verifiable RL](https://github.com/GUI-Libra/GUI-Libra) [![Stars](https://img.shields.io/github/stars/GUI-Libra/GUI-Libra?color=yellow&style=social)](https://github.com/GUI-Libra/GUI-Libra)
 * [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://github.com/microsoft/GUI-Actor) [![Stars](https://img.shields.io/github/stars/microsoft/GUI-Actor?color=yellow&style=social)](https://github.com/microsoft/GUI-Actor)
 * [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/) [![Stars](https://img.shields.io/github/stars/microsoft/Magma?color=yellow&style=social)](https://github.com/microsoft/Magma)
 * [MInference: Million-Tokens Prompt Inference for Long-context LLMs](https://github.com/microsoft/MInference) [![Stars](https://img.shields.io/github/stars/microsoft/MInference?color=yellow&style=social)](https://github.com/microsoft/MInference)
