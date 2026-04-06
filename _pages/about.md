@@ -57,13 +57,13 @@ Selected Publications 📚
 <details markdown="1" open>
 <summary style="cursor: pointer; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 
-* <span class="news-date">Preprint 2026</span> [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190)
+* <span class="news-date">Preprint 2026</span> [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://gui-libra.github.io/)
    <br>Rui Yang, **Qianhui Wu**, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baoling Peng, Huan Zhang, Jianfeng Gao, Tong Zhang
 * <span class="news-date">Preprint 2025</span> [Multimodal Reinforcement Learning with Agentic Verifier for AI Agents](https://arxiv.org/abs/2512.03438)
    <br>Reuben Tan, Baolin Peng, Zhengyuan Yang, Hao Cheng, Oier Mees, Theodore Zhao, Andrea Tupini, Isar Meijier, **Qianhui Wu**, Yuncong Yang, Lars Liden, Yu Gu, Sheng Zhang, Xiaodong Liu, Lijuan Wang, Marc Pollefeys, Yong Jae Lee, Jianfeng Gao
-* <span class="news-date">Preprint 2025</span> [Adapting Web Agents with Synthetic Supervision](https://arxiv.org/pdf/2511.06101)
+* <span class="news-date">ACL-2026</span> [Adapting Web Agents with Synthetic Supervision](https://arxiv.org/pdf/2511.06101)
    <br>Zhaoyang Wang, Yiming Liang, Xuchao Zhang, **Qianhui Wu**, Siwei Han, Anson Bastos, Rujia Wang, Chetan Bansal, Baolin Peng, Jianfeng Gao, Saravan Rajmohan, Huaxiu Yao
-* <span class="news-date">Preprint 2025</span> [GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents](https://arxiv.org/html/2403.12968v1)
+* <span class="news-date">Preprint 2025</span> [GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents](https://arxiv.org/abs/2511.04307)
    <br>Jian Mu, Chaoyun Zhang, Chiming Ni, Lu Wang, Bo Qiao, Kartik Mathur, **Qianhui Wu**, Yuhang Xie, Xiaojun Ma, Mengyu Zhou, Si Qin, Liqun Li, Yu Kang, Minghua Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
 * <span class="news-date">ICLR-2026</span> [Dyna-Mind: Learning to Simulate from Experience for Better AI Agents](https://arxiv.org/pdf/2510.09577)
    <br>Xiao Yu, Baolin Peng, Michel Galley, Hao Cheng, **Qianhui Wu**, Janardhan Kulkarni, Suman Nath, Zhou Yu, Jianfeng Gao
@@ -71,7 +71,7 @@ Selected Publications 📚
    <br>**Qianhui Wu**\*, Kanzhi Cheng\*, Rui Yang\*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao.
 * <span class="news-date">CVPR-2025</span> [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
    <br>Jianwei Yang\*, Reuben Tan\*, **Qianhui Wu**\*, Ruijie Zheng, Baolin Peng, Yongyuan Liang, Yu Gu, Mu Cai, Seonghyeon Ye, Joel Jang, Yuquan Deng, Jianfeng Gao.
-* <span class="news-date">ICLR-2025</span> [SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/abs/2502.05589)
+* <span class="news-date">ICLR-2025</span> [SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://llmlingua.com/secom.html)
    <br>Zhuoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Xufang Luo, Hao Cheng, Dongsheng Li, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Jianfeng Gao.
 
 </details>
@@ -85,7 +85,7 @@ Selected Publications 📚
    <br>Yucheng Li, Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Surin Ahn, Chengruidong Zhang, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu.
 * <span class="news-date">NeurIPS-2024</span> [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490)
    <br>Huiqiang Jiang\*, Yucheng Li\*, Chengruidong Zhang\*, **Qianhui Wu**, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
-* <span class="news-date">ACL-2024 Findings</span> [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/html/2403.12968v1)
+* <span class="news-date">ACL-2024 Findings</span> [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968v1)
    <br>Zhuoshi Pan, **Qianhui Wu**, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang.
 * <span class="news-date">ACL-2024</span> [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839)
    <br>Huiqiang Jiang, **Qianhui Wu**, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
