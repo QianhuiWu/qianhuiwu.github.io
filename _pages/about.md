@@ -15,6 +15,7 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
+<span class="news-date">Apr. 2026</span> Checkout our [WebXSkill](https://arxiv.org/pdf/2604.13318) - learn executable skills for web agents from synthetic tasks and trajectories!<br>
 <span class="news-date">Feb. 2026</span> We release paper, code, data, and models for [GUI-Libra](https://gui-libra.github.io/)!<br>
 <span class="news-date">Jan. 2026</span> Welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
 <span class="news-date">Jan. 2026</span> We release [SynthAgent](https://github.com/aiming-lab/SynthAgent), a task and trajectory synthetic framework for web agents!<br>
@@ -57,14 +58,14 @@ Selected Publications 📚
 <details markdown="1" open>
 <summary style="cursor: pointer; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 
+* <span class="news-date">Preprint 2026</span> [WebXSkill: Skill Learning for Autonomous Web Agents](https://arxiv.org/pdf/2604.13318)
+   <br>Zhaoyang Wang, **Qianhui Wu**, Xuchao Zhang, Chaoyun Zhang, Wenlin Yao, Fazle Elahi Faisal, Baolin Peng, Si Qin, Suman Nath, Qingwei Lin, Chetan Bansal, Dongmei Zhang, Saravan Rajmohan, Jianfeng Gao, Huaxiu Yao
 * <span class="news-date">Preprint 2026</span> [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://gui-libra.github.io/)
    <br>Rui Yang, **Qianhui Wu**, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baoling Peng, Huan Zhang, Jianfeng Gao, Tong Zhang
 * <span class="news-date">Preprint 2025</span> [Multimodal Reinforcement Learning with Agentic Verifier for AI Agents](https://arxiv.org/abs/2512.03438)
    <br>Reuben Tan, Baolin Peng, Zhengyuan Yang, Hao Cheng, Oier Mees, Theodore Zhao, Andrea Tupini, Isar Meijier, **Qianhui Wu**, Yuncong Yang, Lars Liden, Yu Gu, Sheng Zhang, Xiaodong Liu, Lijuan Wang, Marc Pollefeys, Yong Jae Lee, Jianfeng Gao
 * <span class="news-date">ACL-2026</span> [Adapting Web Agents with Synthetic Supervision](https://arxiv.org/pdf/2511.06101)
    <br>Zhaoyang Wang, Yiming Liang, Xuchao Zhang, **Qianhui Wu**, Siwei Han, Anson Bastos, Rujia Wang, Chetan Bansal, Baolin Peng, Jianfeng Gao, Saravan Rajmohan, Huaxiu Yao
-* <span class="news-date">Preprint 2025</span> [GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents](https://arxiv.org/abs/2511.04307)
-   <br>Jian Mu, Chaoyun Zhang, Chiming Ni, Lu Wang, Bo Qiao, Kartik Mathur, **Qianhui Wu**, Yuhang Xie, Xiaojun Ma, Mengyu Zhou, Si Qin, Liqun Li, Yu Kang, Minghua Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
 * <span class="news-date">ICLR-2026</span> [Dyna-Mind: Learning to Simulate from Experience for Better AI Agents](https://arxiv.org/pdf/2510.09577)
    <br>Xiao Yu, Baolin Peng, Michel Galley, Hao Cheng, **Qianhui Wu**, Janardhan Kulkarni, Suman Nath, Zhou Yu, Jianfeng Gao
 * <span class="news-date">NeurIPS-2025</span> [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://microsoft.github.io/GUI-Actor/)
