@@ -15,6 +15,8 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
+<span class="news-date">May 2026</span> Excited to release [Orchard](https://arxiv.org/abs/2605.15040), an open-source agentic modeling framework!<br>
+<span class="news-date">May 2026</span> We release [WebHarbor](https://aiming-lab.github.io/webharbor.github.io/), an open community effort to dock real websites into local, deterministic, and evolving environments for web agent research!<br>
 <span class="news-date">Apr. 2026</span> Checkout our [WebXSkill](https://arxiv.org/pdf/2604.13318) - learn executable skills for web agents from synthetic tasks and trajectories!<br>
 <span class="news-date">Feb. 2026</span> We release paper, code, data, and models for [GUI-Libra](https://gui-libra.github.io/)!<br>
 <span class="news-date">Jan. 2026</span> Welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
@@ -46,6 +48,7 @@ News 🌟
 
 Recommended Repos 🧰
 ------
+* [Orchard: An Open-source Agentic Modeling Framework](https://github.com/microsoft/Orchard) [![Stars](https://img.shields.io/github/stars/microsoft/Orchard?color=yellow&style=social)](https://github.com/microsoft/Orchard)
 * [GUI-Libra: Training Native GUI Agents with Action-aware Supervision and Partially Verifiable RL](https://github.com/GUI-Libra/GUI-Libra) [![Stars](https://img.shields.io/github/stars/GUI-Libra/GUI-Libra?color=yellow&style=social)](https://github.com/GUI-Libra/GUI-Libra)
 * [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://github.com/microsoft/GUI-Actor) [![Stars](https://img.shields.io/github/stars/microsoft/GUI-Actor?color=yellow&style=social)](https://github.com/microsoft/GUI-Actor)
 * [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/) [![Stars](https://img.shields.io/github/stars/microsoft/Magma?color=yellow&style=social)](https://github.com/microsoft/Magma)
@@ -58,6 +61,8 @@ Selected Publications 📚
 <details markdown="1" open>
 <summary style="cursor: pointer; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 
+* <span class="news-date">Preprint 2026</span> [Orchard: An Open-source Agentic Modeling Framework](https://arxiv.org/abs/2605.15040)
+   <br>Zhaoyang Wang, **Qianhui Wu**, Xuchao Zhang, Chaoyun Zhang, Wenlin Yao, Fazle Elahi Faisal, Baolin Peng, Si Qin, Suman Nath, Qingwei Lin, Chetan Bansal, Dongmei Zhang, Saravan Rajmohan, Jianfeng Gao, Huaxiu Yao
 * <span class="news-date">Preprint 2026</span> [WebXSkill: Skill Learning for Autonomous Web Agents](https://arxiv.org/pdf/2604.13318)
    <br>Zhaoyang Wang, **Qianhui Wu**, Xuchao Zhang, Chaoyun Zhang, Wenlin Yao, Fazle Elahi Faisal, Baolin Peng, Si Qin, Suman Nath, Qingwei Lin, Chetan Bansal, Dongmei Zhang, Saravan Rajmohan, Jianfeng Gao, Huaxiu Yao
 * <span class="news-date">Preprint 2026</span> [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://gui-libra.github.io/)
@@ -143,7 +148,7 @@ Other Information 📝
 ▶ **Academic Service**
 
 * Area Chair: COLING-25.
-* Conference Reviewer: ICLR, NeurIPS, CVPR, ACL, EMNLP, NAACL, AAAI, NLPCC.
+* Conference Reviewer: ICLR, NeurIPS, CVPR, ECCV, ACL, EMNLP, NAACL, AAAI, NLPCC.
 * Journal Reviewer: CSUR, TOIS, Pattern Recognition, TASLP, IPM, JIM, ESIN, SIVP.
 <!--, Scientific Reports.-->
 
