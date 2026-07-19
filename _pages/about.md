@@ -15,6 +15,7 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
+<span class="news-date">Jun. 2026</span> We release paper, code, data, and models for [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://openwebrl.github.io)!<br>
 <span class="news-date">May 2026</span> Excited to release [Orchard](https://arxiv.org/abs/2605.15040), an open-source agentic modeling framework!<br>
 <span class="news-date">May 2026</span> We release [WebHarbor](https://aiming-lab.github.io/webharbor.github.io/), an open community effort to dock real websites into local, deterministic, and evolving environments for web agent research!<br>
 <span class="news-date">Apr. 2026</span> Checkout our [WebXSkill](https://arxiv.org/pdf/2604.13318) - learn executable skills for web agents from synthetic tasks and trajectories!<br>
@@ -48,6 +49,7 @@ News 🌟
 
 Recommended Repos 🧰
 ------
+* [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://github.com/OpenWebRL/OpenWebRL) [![Stars](https://img.shields.io/github/stars/OpenWebRL/OpenWebRL?color=yellow&style=social)](https://github.com/OpenWebRL/OpenWebRL)
 * [Orchard: An Open-source Agentic Modeling Framework](https://github.com/microsoft/Orchard) [![Stars](https://img.shields.io/github/stars/microsoft/Orchard?color=yellow&style=social)](https://github.com/microsoft/Orchard)
 * [GUI-Libra: Training Native GUI Agents with Action-aware Supervision and Partially Verifiable RL](https://github.com/GUI-Libra/GUI-Libra) [![Stars](https://img.shields.io/github/stars/GUI-Libra/GUI-Libra?color=yellow&style=social)](https://github.com/GUI-Libra/GUI-Libra)
 * [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://github.com/microsoft/GUI-Actor) [![Stars](https://img.shields.io/github/stars/microsoft/GUI-Actor?color=yellow&style=social)](https://github.com/microsoft/GUI-Actor)
@@ -61,6 +63,8 @@ Selected Publications 📚
 <details markdown="1" open>
 <summary style="cursor: pointer; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 
+* <span class="news-date">Preprint 2026</span> [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031)
+   <br>Rui Yang\*, **Qianhui Wu**\*, Yuxi Chen, Hao Bai, Wenlin Yao, Hao Cheng, Baolin Peng, Huan Zhang, Tong Zhang, Jianfeng Gao
 * <span class="news-date">Preprint 2026</span> [Orchard: An Open-source Agentic Modeling Framework](https://arxiv.org/abs/2605.15040)
    <br>Baolin Peng\*, Wenlin Yao\*, **Qianhui Wu**\*, Hao Cheng\*, Xiao Yu, Rui Yang, Tao Ge, Alessandrio Sordoni, Xingdi Yuan, Yelong Shen, Pengcheng He, Tong Zhang, Zhou Yu, Jianfeng Gao
 * <span class="news-date">Preprint 2026</span> [WebXSkill: Skill Learning for Autonomous Web Agents](https://arxiv.org/pdf/2604.13318)
