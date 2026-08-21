@@ -72,7 +72,7 @@ Selected Publications 📚
    <br>Baolin Peng\*, Wenlin Yao\*, **Qianhui Wu**\*, Hao Cheng\*, Xiao Yu, Rui Yang, Tao Ge, Alessandrio Sordoni, Xingdi Yuan, Yelong Shen, Pengcheng He, Tong Zhang, Zhou Yu, Jianfeng Gao
 * <span class="news-date">Preprint 2026</span> [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://gui-libra.github.io/)
    <br>Rui Yang, **Qianhui Wu**, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baoling Peng, Huan Zhang, Jianfeng Gao, Tong Zhang
-* <span class="news-date">EMNLP 2026 Findings</span> [WebXSkill: Skill Learning for Autonomous Web Agents](https://arxiv.org/pdf/2604.13318)
+* <span class="news-date">EMNLP-2026 Findings</span> [WebXSkill: Skill Learning for Autonomous Web Agents](https://arxiv.org/pdf/2604.13318)
    <br>Zhaoyang Wang, **Qianhui Wu**, Xuchao Zhang, Chaoyun Zhang, Wenlin Yao, Fazle Elahi Faisal, Baolin Peng, Si Qin, Suman Nath, Qingwei Lin, Chetan Bansal, Dongmei Zhang, Saravan Rajmohan, Jianfeng Gao, Huaxiu Yao
 * <span class="news-date">COLM-2026</span> [The Devil Is in the Interface: Evaluating How Tool Architecture Shapes Coding Agent Behavior](https://arxiv.org/abs/2608.11386)
    <br>Xiangzhe Xu, Hamidreza Saghir, **Qianhui Wu**, Marc-Alexandre Côté, Tong Wang, Kiran Lakkaraju, Kexin Pei, Xiangyu Zhang
