@@ -151,8 +151,9 @@ Other Information 📝
 ------
 ▶ **Invited Talks**
 
+<span class="news-date">Sep. 2026</span> [Teaching Machines to Use Computers: Open and Efficient Training for Unified Digital Agents @ MDA-ECCV 2026](https://mda-workshop.allen.ai/)<br>
 <span class="news-date">Sep. 2025</span> Towards AI Agents That Can See And Act @ Shanghai Artificial Intelligence Laboratory<br>
-<span class="news-date">Jun. 2025</span> Act Where You See: Coordinate-Free Visual Grounding for GUI Agents @ Simular Seminar
+<span class="news-date">Jun. 2025</span> [Act Where You See: Coordinate-Free Visual Grounding for GUI Agents @ Simular](https://www.linkedin.com/feed/update/urn:li:activity:7344556248714862592/)
 
 ▶ **Academic Service**
 
