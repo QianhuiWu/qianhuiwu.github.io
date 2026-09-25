@@ -68,9 +68,9 @@ Selected Publications 📚
 <summary style="cursor: pointer; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 * <span class="news-date">Preprint 2026</span> [OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557)
    <br>Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, **Qianhui Wu**, Hao Cheng, Wenlin Yao, Nikhil Singh, Zhou Yu, Jianfeng Gao
-* <span class="news-date">NeurIPS</span> [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031)
+* <span class="news-date">NeurIPS-2026</span> [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031)
    <br>Rui Yang\*, **Qianhui Wu**\*, Yuxi Chen, Hao Bai, Wenlin Yao, Hao Cheng, Baolin Peng, Huan Zhang, Tong Zhang, Jianfeng Gao
-* <span class="news-date">Preprint 2026</span> [Orchard: An Open-source Agentic Modeling Framework](https://arxiv.org/abs/2605.15040)
+* <span class="news-date">Technical Report</span> [Orchard: An Open-source Agentic Modeling Framework](https://arxiv.org/abs/2605.15040)
    <br>Baolin Peng\*, Wenlin Yao\*, **Qianhui Wu**\*, Hao Cheng\*, Xiao Yu, Rui Yang, Tao Ge, Alessandrio Sordoni, Xingdi Yuan, Yelong Shen, Pengcheng He, Tong Zhang, Zhou Yu, Jianfeng Gao
 * <span class="news-date">NeurIPS-2026</span> [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://gui-libra.github.io/)
    <br>Rui Yang, **Qianhui Wu**, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baoling Peng, Huan Zhang, Jianfeng Gao, Tong Zhang
