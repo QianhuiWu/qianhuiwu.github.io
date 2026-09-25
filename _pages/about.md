@@ -15,6 +15,8 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
+<span class="news-date">Sep. 2026</span> [OpenWebRL](https://openwebrl.github.io) and [GUI-Libra](https://gui-libra.github.io/) get accepted to NeurIPS 2026!<br>
+<span class="news-date">Sep. 2026</span> The [1st Workshop on Multimodal Digital Agents (MMDA)](https://mda-workshop.allen.ai/) is happening now at ECCV 2026! Join us!<br>
 <span class="news-date">Jul. 2026</span> Check out [OpenForgeRL](https://arxiv.org/abs/2607.21557) for training harness-native agents in any environment!<br>
 <span class="news-date">Jun. 2026</span> We release paper, code, data, and models for [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://openwebrl.github.io)!<br>
 <span class="news-date">May 2026</span> Excited to release [Orchard](https://arxiv.org/abs/2605.15040), an open-source agentic modeling framework!<br>
@@ -22,12 +24,12 @@ News 🌟
 <span class="news-date">Apr. 2026</span> Checkout our [WebXSkill](https://arxiv.org/pdf/2604.13318) - learn executable skills for web agents from synthetic tasks and trajectories!<br>
 <span class="news-date">Feb. 2026</span> We release paper, code, data, and models for [GUI-Libra](https://gui-libra.github.io/)!<br>
 <span class="news-date">Jan. 2026</span> Welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
-<span class="news-date">Jan. 2026</span> We release [SynthAgent](https://github.com/aiming-lab/SynthAgent), a task and trajectory synthetic framework for web agents!<br>
-<span class="news-date">Jan. 2026</span> [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!<br>
 
 <details markdown="1">
 <summary style="cursor: pointer; color: #52adc8; margin-top: 5px;">Show more news</summary>
 
+<span class="news-date">Jan. 2026</span> We release [SynthAgent](https://github.com/aiming-lab/SynthAgent), a task and trajectory synthetic framework for web agents!<br>
+<span class="news-date">Jan. 2026</span> [Dyna-Mind](https://arxiv.org/pdf/2510.09577) is accepted by ICLR 2026!<br>
 <span class="news-date">Dec. 2025</span> We release [Argos](https://arxiv.org/abs/2512.03438), a principled reward agent to train LMRMs for agentic tasks.<br>
 <span class="news-date">Nov. 2025</span> We release [GUI-360](https://arxiv.org/pdf/2511.04307), a comprehensive dataset and benchmark for CUA!<br>
 <span class="news-date">Jun. 2025</span> Excited to release [GUI-Actor](https://github.com/microsoft/GUI-Actor), a coordinate-free visual grounding method for GUI agents!<br>
@@ -66,11 +68,11 @@ Selected Publications 📚
 <summary style="cursor: pointer; margin-top: 5px;"><strong>Agentic AI</strong></summary>
 * <span class="news-date">Preprint 2026</span> [OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557)
    <br>Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, **Qianhui Wu**, Hao Cheng, Wenlin Yao, Nikhil Singh, Zhou Yu, Jianfeng Gao
-* <span class="news-date">Preprint 2026</span> [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031)
+* <span class="news-date">NeurIPS</span> [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031)
    <br>Rui Yang\*, **Qianhui Wu**\*, Yuxi Chen, Hao Bai, Wenlin Yao, Hao Cheng, Baolin Peng, Huan Zhang, Tong Zhang, Jianfeng Gao
 * <span class="news-date">Preprint 2026</span> [Orchard: An Open-source Agentic Modeling Framework](https://arxiv.org/abs/2605.15040)
    <br>Baolin Peng\*, Wenlin Yao\*, **Qianhui Wu**\*, Hao Cheng\*, Xiao Yu, Rui Yang, Tao Ge, Alessandrio Sordoni, Xingdi Yuan, Yelong Shen, Pengcheng He, Tong Zhang, Zhou Yu, Jianfeng Gao
-* <span class="news-date">Preprint 2026</span> [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://gui-libra.github.io/)
+* <span class="news-date">NeurIPS-2026</span> [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://gui-libra.github.io/)
    <br>Rui Yang, **Qianhui Wu**, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baoling Peng, Huan Zhang, Jianfeng Gao, Tong Zhang
 * <span class="news-date">EMNLP-2026 Findings</span> [WebXSkill: Skill Learning for Autonomous Web Agents](https://arxiv.org/pdf/2604.13318)
    <br>Zhaoyang Wang, **Qianhui Wu**, Xuchao Zhang, Chaoyun Zhang, Wenlin Yao, Fazle Elahi Faisal, Baolin Peng, Si Qin, Suman Nath, Qingwei Lin, Chetan Bansal, Dongmei Zhang, Saravan Rajmohan, Jianfeng Gao, Huaxiu Yao
