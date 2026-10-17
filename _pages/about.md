@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Senior Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/).
+I'm a Principal Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/) Deep Learning Group.
 I received my Bachelor's degree and Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2016 and 2021, respectively.
 My recent research focuses on computer use agents, tool calling, and agentic AI. <!--Information Extraction and low-resource NLP, Efficient LLMs.-->
 
