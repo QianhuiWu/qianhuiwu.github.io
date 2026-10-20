@@ -15,6 +15,7 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
+<span class="news-date">Oct. 2026</span> We release paper, code, data, and models for [WildAWM](https://msr-orchard.github.io/WildAWM/), a scalable env synthesis pipeline for CUAs!<br>
 <span class="news-date">Sep. 2026</span> [OpenWebRL](https://openwebrl.github.io) and [GUI-Libra](https://gui-libra.github.io/) get accepted to NeurIPS 2026!<br>
 <span class="news-date">Sep. 2026</span> The [1st Workshop on Multimodal Digital Agents (MMDA)](https://mda-workshop.allen.ai/) is happening now at ECCV 2026! Join us!<br>
 <span class="news-date">Jul. 2026</span> Check out [OpenForgeRL](https://arxiv.org/abs/2607.21557) for training harness-native agents in any environment!<br>
@@ -66,6 +67,9 @@ Selected Publications 📚
 ------
 <details markdown="1" open>
 <summary style="cursor: pointer; margin-top: 5px;"><strong>Agentic AI</strong></summary>
+  
+* <span class="news-date">Preprint 2026</span> [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://msr-orchard.github.io/WildAWM/)
+   <br>Zhaoyang Wang, **Qianhui Wu**, Haorui Wang, Simon Yu, Baolin Peng, Canwen Xu, Hao Cheng, Wenlin Yao, Boyi Liu, Yite Wang, Jianfeng Gao, Huaxiu Yao
 * <span class="news-date">Preprint 2026</span> [OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557)
    <br>Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, **Qianhui Wu**, Hao Cheng, Wenlin Yao, Nikhil Singh, Zhou Yu, Jianfeng Gao
 * <span class="news-date">NeurIPS-2026</span> [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031)
