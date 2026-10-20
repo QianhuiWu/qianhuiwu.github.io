@@ -15,7 +15,7 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
-<span class="news-date">Oct. 2026</span> We release paper, code, data, and models for [WildAWM](https://msr-orchard.github.io/WildAWM/), a scalable env synthesis pipeline for CUAs!<br>
+<span class="news-date">Oct. 2026</span> We've released the full suite for [WildAWM: env synthesis for CUAs](https://msr-orchard.github.io/WildAWM/)!<br>
 <span class="news-date">Sep. 2026</span> [OpenWebRL](https://openwebrl.github.io) and [GUI-Libra](https://gui-libra.github.io/) get accepted to NeurIPS 2026!<br>
 <span class="news-date">Sep. 2026</span> The [1st Workshop on Multimodal Digital Agents (MMDA)](https://mda-workshop.allen.ai/) is happening now at ECCV 2026! Join us!<br>
 <span class="news-date">Jul. 2026</span> Check out [OpenForgeRL](https://arxiv.org/abs/2607.21557) for training harness-native agents in any environment!<br>
