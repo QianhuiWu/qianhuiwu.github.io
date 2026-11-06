@@ -15,13 +15,15 @@ My recent research focuses on computer use agents, tool calling, and agentic AI.
 
 News 🌟
 ------
+
+<span class="news-date">Nov. 2026</span> We extend [WebHarbor](https://aiming-lab.github.io/webharbor.github.io/) to 153 executable, Dockerized website environments with 3,518 tasks!<br>
 <span class="news-date">Oct. 2026</span> We've released the full suite for [WildAWM: env synthesis for CUAs](https://msr-orchard.github.io/WildAWM/)!<br>
 <span class="news-date">Sep. 2026</span> [OpenWebRL](https://openwebrl.github.io) and [GUI-Libra](https://gui-libra.github.io/) get accepted to NeurIPS 2026!<br>
 <span class="news-date">Sep. 2026</span> The [1st Workshop on Multimodal Digital Agents (MMDA)](https://mda-workshop.allen.ai/) is happening now at ECCV 2026! Join us!<br>
 <span class="news-date">Jul. 2026</span> Check out [OpenForgeRL](https://arxiv.org/abs/2607.21557) for training harness-native agents in any environment!<br>
 <span class="news-date">Jun. 2026</span> We release paper, code, data, and models for [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://openwebrl.github.io)!<br>
 <span class="news-date">May 2026</span> Excited to release [Orchard](https://arxiv.org/abs/2605.15040), an open-source agentic modeling framework!<br>
-<span class="news-date">May 2026</span> We release [WebHarbor](https://aiming-lab.github.io/webharbor.github.io/), an open community effort to dock real websites into local, deterministic, and evolving environments for web agent research!<br>
+<!--span class="news-date">May 2026</span> We release [WebHarbor](https://aiming-lab.github.io/webharbor.github.io/), an open community effort to dock real websites into local, deterministic, and evolving environments for web agent research!<br-->
 <span class="news-date">Apr. 2026</span> Checkout our [WebXSkill](https://arxiv.org/pdf/2604.13318) - learn executable skills for web agents from synthetic tasks and trajectories!<br>
 <span class="news-date">Feb. 2026</span> We release paper, code, data, and models for [GUI-Libra](https://gui-libra.github.io/)!<br>
 <span class="news-date">Jan. 2026</span> Welcome to join our [5th Workshop on Computer Vision in the Wild (CVinW) at @CVPR 2026](https://computer-vision-in-the-wild.github.io/cvpr-2026)!<br>
@@ -53,7 +55,8 @@ News 🌟
 
 Recommended Repos 🧰
 ------
-* [OpenForgeRL: Train Harness-native Agents in Any Environment](https://github.com/MSR-Orchard/OpenForge-RL) [![Stars](https://img.shields.io/github/stars/MSR-Orchard/OpenForge-RL?color=yellow&style=social)](https://github.com/MSR-Orchard/OpenForge-RL)
+* [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://github.com/aiming-lab/WebHarbor) [![Stars](https://img.shields.io/github/stars/aiming-lab/WebHarbor?color=yellow&style=social)](https://github.com/aiming-lab/WebHarbor)
+* [WildAWM: Computer-Use Agent Environment Synthesis](https://github.com/MSR-Orchard/WildAWM) [![Stars](https://img.shields.io/github/stars/MSR-Orchard/WildAWM?color=yellow&style=social)](https://github.com/MSR-Orchard/WildAWM)
 * [OpenWebRL: Online Multi-Turn Reinforcement Learning for Visual Web Agents](https://github.com/OpenWebRL/OpenWebRL) [![Stars](https://img.shields.io/github/stars/OpenWebRL/OpenWebRL?color=yellow&style=social)](https://github.com/OpenWebRL/OpenWebRL)
 * [Orchard: An Open-source Agentic Modeling Framework](https://github.com/microsoft/Orchard) [![Stars](https://img.shields.io/github/stars/microsoft/Orchard?color=yellow&style=social)](https://github.com/microsoft/Orchard)
 * [GUI-Libra: Training Native GUI Agents with Action-aware Supervision and Partially Verifiable RL](https://github.com/GUI-Libra/GUI-Libra) [![Stars](https://img.shields.io/github/stars/GUI-Libra/GUI-Libra?color=yellow&style=social)](https://github.com/GUI-Libra/GUI-Libra)
@@ -67,7 +70,9 @@ Selected Publications 📚
 ------
 <details markdown="1" open>
 <summary style="cursor: pointer; margin-top: 5px;"><strong>Agentic AI</strong></summary>
-  
+
+* <span class="news-date">Preprint 2026</span> [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://aiming-lab.github.io/webharbor.github.io/)
+   <br>Zhaoyang Wang, **Qianhui Wu**, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, et al.
 * <span class="news-date">Preprint 2026</span> [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://msr-orchard.github.io/WildAWM/)
    <br>Zhaoyang Wang, **Qianhui Wu**, Haorui Wang, Simon Yu, Baolin Peng, Canwen Xu, Hao Cheng, Wenlin Yao, Boyi Liu, Yite Wang, Jianfeng Gao, Huaxiu Yao
 * <span class="news-date">Preprint 2026</span> [OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557)
